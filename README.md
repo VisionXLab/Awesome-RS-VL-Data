@@ -36,6 +36,8 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[Project](https://github.com/HaodongLi2024/rspope/)|N/A|
 |2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)|N/A|N/A|
 |2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[Project](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|N/A|
+|2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[Project](https://github.com/TianHuiLab/Falcon)|[link](https://www.modelscope.cn/datasets/TianHuiLab/FCD-78M)|
+
 
 ## Task-specific SFT
 
