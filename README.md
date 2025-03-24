@@ -28,7 +28,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
 |2024|arXiv| |[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
 |2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A|N/A|
-|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|N/A|N/A|
+|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[Project](https://github.com/lx709/VRSBench)|[link](https://huggingface.co/datasets/xiang709/VRSBench)|
 |2024|arXiv| |[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
 |2024|arXiv| |[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)|[link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)|
 |2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[Project](https://opendatalab.github.io/UrBench/)|N/A|
