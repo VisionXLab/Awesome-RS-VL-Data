@@ -94,18 +94,42 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 ### Classification
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
+|2017|TGRS| |[AID](https://captain-whu.github.io/AID/)|[Project](https://captain-whu.github.io/AID/)|N/A|
+|2017|Proc. IEEE| |[NWPU-RESISC45](https://ieeexplore.ieee.org/abstract/document/7891544)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+|2020|Website| |AiRound|[Project](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|N/A|
+|2020|Website| |airplane_det|[Project](https://aistudio.baidu.com/datasetdetail/131179)|N/A|
+|2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[Project]|N/A|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
+|2021|Website| |ship_det|[Project](https://aistudio.baidu.com/datasetdetail/134218)|N/A|
 |2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[Project](https://satinbenchmark.github.io/)|[link](https://huggingface.co/datasets/jonathan-roberts1/SATIN)|
+
+
 
 ### Detection
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
+|2014|ISPRS JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+|2018|Kaggle| |ASD|[Project](https://www.kaggle.com/c/airbus-ship-detection)|N/A|
+|2020|ISPRS JPRS| |[DIOR](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+|2022|JRS| |[MAR20](https://www.ygxb.ac.cn/en/article/doi/10.11834/jrs.20222139/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+|2023|TPAMI| |[SODA-A](https://ieeexplore.ieee.org/abstract/document/10168277/)|[Project](https://gcheng-nwpu.github.io/#Datasets)|N/A|
+
 
 ### Segmentation
 |Year|Venue|Keywords|Name|Code/Project|Download|
 |:-:|:-:|:-:|-|-|-|
+|2020|Website| |BHP Watertanks|[Project](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|N/A|
 |2024|arXiv| |[ChatEarthNet](https://arxiv.org/abs/2402.11325)|[project](https://github.com/zhu-xlab/ChatEarthNet)|[link](https://doi.org/10.5281/zenodo.11003436)|
 |2024|arXiv| |[FineGrip](https://arxiv.org/abs/2404.04608)|N/A|N/A|
 
+### Detection
+|Year|Venue|Keywords|Name|Code/Project|Download|
+|:-:|:-:|:-:|-|-|-|
+|2018|ISPRS Archives| |[CDD](https://isprs-archives.copernicus.org/articles/XLII-2/565/2018/)|N/A|[link](https://drive.google.com/file/d/1GX656JqqOyBi_Ef0w65kDGVto-nHrNs9/edit)|
+
+
+
+
+||| |[]()|[Project]()|N/A|
 
 
 
