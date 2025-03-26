@@ -13,31 +13,31 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 - [Meta Data](meta-data)
 
 ## Comprehensive SFT
-[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)
+
 
 |Year|Venue|Keywords|Name|Download|Discuss|
-|:-:|:-:|:-:|-|-|
-|2023|arXiv| |[RS5M](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|[link](https://huggingface.co/datasets/Zilun/RS5M)|
-|2023|arXiv| |[LAION-EO](https://arxiv.org/abs/2309.15535)|N/A|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)|
-|2023|arXiv| |[RSICap & RSIEval](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)|N/A|
-|2024|ICLR | |[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)|N/A|
-|2024|AAAI| |[SkyScript](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)|[link](https://github.com/wangzhecheng/SkyScript#download)|
-|2024|CVPR| |[GeoChat-Instruct & GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)|[link](https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct)|
-|2024|arXiv| |[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|N/A|
-|2024|arXiv| |[MMRS-1M](https://arxiv.org/abs/2401.16822)|[Project](https://github.com/wivizhang/EarthGPT)|N/A|
-|2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)|N/A|
-|2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)|[link](https://huggingface.co/collections/mit-ei/vleo-benchmark-datasets-65b789b0466555489cce0d70)|
-|2024|arXiv| |[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A|N/A|
-|2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A|N/A|
-|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[Project](https://github.com/lx709/VRSBench)|[link](https://huggingface.co/datasets/xiang709/VRSBench)|
-|2024|arXiv| |[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)|[link](https://huggingface.co/datasets/SlytherinGe/RSTeller)|
-|2024|arXiv| |[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)|[link](https://huggingface.co/datasets/yifanzhang114/MME-RealWorld)|
-|2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[Project](https://opendatalab.github.io/UrBench/)|N/A|
-|2024|arXiv| |[MMM-RS](https://arxiv.org/abs/2410.22362)|[Project](https://github.com/ljl5261/MMM-RS)|N/A|
-|2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[Project](https://github.com/HaodongLi2024/rspope/)|N/A|
-|2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)|N/A|N/A|
-|2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[Project](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|N/A|
-|2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[Project](https://github.com/TianHuiLab/Falcon)|[link](https://www.modelscope.cn/datasets/TianHuiLab/FCD-78M)|
+|:-:|:-:|:-:|-|-|-|
+|2023|arXiv| |[RS5M](https://arxiv.org/abs/2306.11300)|[Code](https://github.com/om-ai-lab/RS5M)|[link](https://huggingface.co/datasets/Zilun/RS5M)| |
+|2023|arXiv| |[LAION-EO](https://arxiv.org/abs/2309.15535)|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)| |
+|2023|arXiv| |[RSICap & RSIEval](https://arxiv.org/abs/2307.15266)|[Code](https://github.com/Lavender105/RSGPT)| |
+|2024|ICLR | |[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[Project](https://graft.cs.cornell.edu)| |
+|2024|AAAI| |[SkyScript](https://arxiv.org/abs/2312.12856)|[Code](https://github.com/wangzhecheng/SkyScript)| |
+|2024|CVPR| |[GeoChat](https://arxiv.org/abs/2311.15826)|[Code](https://github.com/mbzuai-oryx/geochat)| |
+|2024|arXiv| |[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)| |
+|2024|arXiv| |[MMRS-1M](https://arxiv.org/abs/2401.16822)|[Project](https://github.com/wivizhang/EarthGPT)| |
+|2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[Code](https://github.com/NJU-LHRS/LHRS-Bot)| |
+|2024|arXiv| |[VLEO-Bench](https://arxiv.org/abs/2401.17600)|[Code](https://vleo.danielz.ch/)| |
+|2024|arXiv| |[LuoJiaHOG](https://arxiv.org/abs/2403.10887)|N/A| |
+|2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|N/A| |
+|2024|arXiv| |[VRSBench](https://arxiv.org/abs/2406.12384)|[Project](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/1)|
+|2024|arXiv| |[RSTeller](https://arxiv.org/abs/2408.14744)|[Project](https://github.com/SlytherinGe/RSTeller/)| |
+|2024|arXiv| |[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[Project](https://mme-realworld.github.io/home_page.html)| |
+|2024|arXiv| |[UrBench](https://arxiv.org/abs/2408.17267)|[Project](https://opendatalab.github.io/UrBench/)| |
+|2024|arXiv| |[MMM-RS](https://arxiv.org/abs/2410.22362)|[Project](https://github.com/ljl5261/MMM-RS)| |
+|2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[Project](https://github.com/HaodongLi2024/rspope/)| |
+|2024|arXiv| |[COREval](https://arxiv.org/abs/2411.18145)| |
+|2024|arXiv| |[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[Project](https://github.com/The-AI-Alliance/GEO-Bench-VLM)| |
+|2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[Project](https://github.com/TianHuiLab/Falcon)| |
 
 
 ## Task-specific SFT
