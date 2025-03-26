@@ -15,7 +15,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 ## Comprehensive SFT
 
 
-|Year|Venue|Keywords|Name|Download|Discuss|
+|Year|Venue|Keywords|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
 |2023|arXiv| |[RS5M](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M)| |
 |2023|arXiv| |[LAION-EO](https://arxiv.org/abs/2309.15535)|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)| |
