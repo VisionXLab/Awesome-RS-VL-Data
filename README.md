@@ -16,7 +16,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 
 
 |Year|Venue|Keywords|Name|Download|Discuss|
-|:-:|:-:|:-:|-|-|-|
+|:-:|:-:|:-:|-|-|:-:|
 |2023|arXiv| |[RS5M](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M)| |
 |2023|arXiv| |[LAION-EO](https://arxiv.org/abs/2309.15535)|[link](https://huggingface.co/datasets/mikonvergence/LAION-EO)| |
 |2023|arXiv| |[RSICap & RSIEval](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)| |
