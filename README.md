@@ -49,7 +49,8 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2016|CITS| |[Sydney-Captions & UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F),[link2](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
+|2016|CITS| |[UCM-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1mjPToHq#list/path=%2F)|
+|2016|CITS| |[Sydney-Captions](https://ieeexplore.ieee.org/abstract/document/7546397)|[link](https://pan.baidu.com/s/1hujEmcG#list/path=%2F)|
 |2017|TGRS| |[RSICD](https://ieeexplore.ieee.org/document/8240966)|[link](https://github.com/201528014227051/RSICD_optimal)|
 |2021|TGRS| |[RSITMD](https://ieeexplore.ieee.org/document/9437331)|[link](https://github.com/xiaoyuan1996/AMFMN)|
 |2022|TGRS| |[NWPU-Captions](https://ieeexplore.ieee.org/document/9866055)|[link](https://github.com/HaiyanHuang98/NWPU-Captions)|
