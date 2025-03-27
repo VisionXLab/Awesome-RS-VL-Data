@@ -136,7 +136,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2012|TPAMI| |[SZTAKI](https://ieeexplore.ieee.org/document/5766001)|[link](http://web.eee.sztaki.hu/remotesensing/building_benchmark.html)|
 |2014|JPRS| |[NWPU VHR-10](https://www.sciencedirect.com/science/article/abs/pii/S0924271614002524)|[link](https://gcheng-nwpu.github.io/#Datasets)|
 |2015|ICIP| |[UCAS-AOD](https://ieeexplore.ieee.org/document/7351502)|[link](https://github.com/ming71/UCAS-AOD-benchmark)|
-|2016|ECCV| |[Stanford-Drone](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_33)|[link](https://cvgl.stanford.edu/projects/uav_data/)|
+|2016|ECCV| |[S-Drone](https://link.springer.com/chapter/10.1007/978-3-319-46484-8_33)|[link](https://cvgl.stanford.edu/projects/uav_data/)|
 |2017|ICPRAM| |[HRSC2016](https://www.scitepress.org/PublishedPapers/2017/61206/)|[link](https://www.kaggle.com/datasets/guofeng/hrsc2016)|
 |2017|TGRS| |[RSOD](https://ieeexplore.ieee.org/abstract/document/7827088)|[link](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-)|
 |2017|TIP| |[LEVIR](https://ieeexplore.ieee.org/document/8106808)|[link](https://pan.baidu.com/s/1geTwAVD)|
