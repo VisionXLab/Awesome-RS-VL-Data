@@ -170,8 +170,8 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |:-:|:-:|:-:|-|-|
 |2017|IGARSS| |[Inria](https://ieeexplore.ieee.org/abstract/document/8127684)|[link](https://project.inria.fr/aerialimagelabeling/)|
 |2018|RS| |[DLRSD](https://www.mdpi.com/2072-4292/10/6/964)|[link](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0)|
-|2018|Website| |ISPRS Vaihingen|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
-|2018|Website| |ISPRS Potsdam|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
+|2018|Website| |Vaihingen|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
+|2018|Website| |Potsdam|[link](https://www.isprs.org/education/benchmarks/UrbanSemLab/default.aspx)|
 |2019|CVPRW| |[iSAID](https://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.html)|[link](https://captain-whu.github.io/iSAID/)|
 |2020|Website| |BHP Watertanks|[link](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
 |2020|RSE| |[GID15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|N/A|
