@@ -34,7 +34,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|TGRS| |[RSVP](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)| |
 |2025|arXiv| |[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)| |
 |2025|arXiv| |[Falcon](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)| |
-
+|2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
 
 ## Task-specific SFT
 
@@ -58,7 +58,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|TGRS| |[RS5M](https://arxiv.org/abs/2306.11300)|[link](https://github.com/om-ai-lab/RS5M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/2)|
 |2024|AAAI| |[SkyScript](https://arxiv.org/abs/2312.12856)|[link](https://github.com/wangzhecheng/SkyScript)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/6)|
 |2024|arXiv| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
-|2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
+
 
 
 
@@ -196,6 +196,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2020|RSE| |[GID15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|N/A|
 |2020|RSE| |[WHU-GID](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|
 |2020|arXiv| |[Hi-UCD](https://arxiv.org/abs/2011.03247)|[link](http://rsidea.whu.edu.cn/Hi-UCD_dataset.htm)|
+|2020|JPRS| |[UAVid](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301295)|[link](https://uavid.nl/)|
 |2021|TGRS| |[GEONRW](https://ieeexplore.ieee.org/document/9406194)|[link](https://ieee-dataport.org/open-access/geonrw)|
 |2021|arXiv| |[LoveDA](https://arxiv.org/abs/2110.08733)|[link](https://github.com/Junjue-Wang/LoveDA)|
 |2023|JRS| |[Globe230k](https://spj.science.org/doi/full/10.34133/remotesensing.0078)|[link](https://zenodo.org/records/8429200)|
