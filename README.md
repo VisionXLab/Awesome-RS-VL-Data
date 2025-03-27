@@ -70,7 +70,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 
 - `Temporal`: Multi-Image Question
 - `Math`: Mathematical Question
-- `HR`: High Resolution Image
+- `VHR`: Very High Resolution
 - `SEG`: Provide Segmentation Annotations
 
 |Year|Venue|Keywords|Name|Download|More|
@@ -84,7 +84,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2022|TGRS| |[CRSVQA](https://ieeexplore.ieee.org/abstract/document/10242124)|[link](https://github.com/MeimeiZhang-data/MQVQA)| |
 |2023|arXiv|`Math`|[RemoteCount](https://arxiv.org/abs/2306.11029)|[link](https://github.com/ChenDelong1999/RemoteCLIP)| |
 |2024|AAAI |`SEG`|[EarthVQA](https://arxiv.org/abs/2312.12222)|[link](https://junjuewang.top/EarthVQA)| |
-|2024|arXiv|`HR`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
+|2024|arXiv|`VHR`|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[link](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 
 ### Visual Grounding
 
