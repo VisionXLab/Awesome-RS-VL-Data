@@ -248,4 +248,5 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
 |2025|TPAMI| |[STAR](https://arxiv.org/abs/2406.09410)|[link](https://linlin-dev.github.io/project/STAR)|
+|2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[link](https://github.com/gastruc/OmniSat)|
 ||| |[]()|[link]()|
