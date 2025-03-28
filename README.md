@@ -148,7 +148,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2021|RS| |[FGSCR-42](https://www.mdpi.com/2072-4292/13/4/747)|[link](https://github.com/DYH666/DSCR)|
 |2022|arXiv| |[METER-ML](https://arxiv.org/abs/2207.11166)|[link](https://stanfordmlgroup.github.io/projects/meter-ml/)|
 |2023|ICCVW| |[SATIN](https://arxiv.org/abs/2304.11619)|[link](https://satinbenchmark.github.io/)|
-
+|2023|DICTA| |[FireRisk](https://ieeexplore.ieee.org/document/10410957)|[link](https://github.com/CharmonyShen/FireRisk)|
 
 
 ### Detection
