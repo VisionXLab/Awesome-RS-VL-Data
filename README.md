@@ -33,7 +33,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 ## Comprehensive Benchmark
 |Year|Venue|Keywords|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
-|2023|arXiv| |[RSIEval](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)| |
+|2023|arXiv| |[RSIEval](https://arxiv.org/abs/2307.15266)|[link](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
 |2024|ICLR| |[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)| |
 |2024|CVPR| |[GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)| |
 |2024|arXiv| |[LHRS-Bench](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)| |
