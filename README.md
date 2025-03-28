@@ -135,7 +135,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2018|CVPR| |[fMoW](https://arxiv.org/abs/1711.07846)|[link](https://github.com/fMoW/dataset)|
 |2019|JSTARS| |[EuroSAT](https://ieeexplore.ieee.org/abstract/document/8736785)|[link](https://zenodo.org/records/7711810)|
 |2019|IGARSS| |[BigEarthNet](https://arxiv.org/abs/1902.06148)|[link](https://bigearth.net/)|
-|2020|Website| |AiRound|[link](http://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
+|2020|Website| |[AiRound](https://ieeexplore.ieee.org/document/9238485)|[link](https://patreo.dcc.ufmg.br/2020/07/22/multi-view-datasets/)|
 |2020|Website| |airplane_det|[link](https://aistudio.baidu.com/datasetdetail/131179)|
 |2020|Sensor| |[CLRS](https://www.mdpi.com/1424-8220/20/4/1226)|[link](https://huggingface.co/datasets/jonathan-roberts1/CLRS)|
 |2020|Sensor| |[RSI-CB](https://arxiv.org/abs/1705.10450)|[link](https://github.com/lehaifeng/RSI-CB)|
