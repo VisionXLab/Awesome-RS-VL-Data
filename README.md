@@ -236,6 +236,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 |2019|CVIU| |[HRSCD](https://www.sciencedirect.com/science/article/abs/pii/S1077314219300992)|[link](https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset)|
 |2020|JPRS| |[DSIFN](https://www.sciencedirect.com/science/article/abs/pii/S0924271620301532)|[link](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images/tree/master/dataset)|
 |2020|RS| |[LEVIR-CD](https://www.mdpi.com/2072-4292/12/10/1662)|[link](https://opendatalab.com/OpenDataLab/LEVIR-CD)|
+|2020|arXiv| |[SECOND](https://arxiv.org/abs/2010.05687)|[link](https://captain-whu.github.io/SCD/)|
 |2021|ICCV| |[PASTIS](https://arxiv.org/abs/2107.07933)|[link](https://github.com/VSainteuf/pastis-benchmark)|
 |2021|RS| |[LEVIR-CD+](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
 |2021|RS| |[S2Looking](https://www.mdpi.com/2072-4292/13/24/5094)|[link](https://github.com/S2Looking/Dataset)|
