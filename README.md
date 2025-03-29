@@ -124,7 +124,7 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 ### Classification
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2010|GIS| |[UCM](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)|[link](http://weegee.vision.ucmerced.edu/datasets/landuse.html)|
+|2010|GIS| |[UCM (UCMerced)](https://dl.acm.org/doi/abs/10.1145/1869790.1869829)|[link](http://weegee.vision.ucmerced.edu/datasets/landuse.html)|
 |2011|TGRS| |[WHU-RS19](https://ieeexplore.ieee.org/abstract/document/5545358)|[link](https://captain-whu.github.io/BED4RS/)|
 |2015|GRSL| |[RSSCN7](https://ieeexplore.ieee.org/abstract/document/7272047)|[link](https://github.com/palewithout/RSSCN7)|
 |2015|TGRS| |[SIRI-WHU](https://ieeexplore.ieee.org/document/7329997)|[link](https://huggingface.co/datasets/jonathan-roberts1/SIRI-WHU)|
