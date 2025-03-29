@@ -19,19 +19,19 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|CVPR| |[GeoChat-Instruct](https://arxiv.org/abs/2311.15826)|[link](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/5)|
 |2024|JPRS| |[SkyEye-968k](https://arxiv.org/abs/2401.09712)|[link](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/7)|
 |2024|TGRS| |[MMRS-1M](https://arxiv.org/abs/2401.16822)|[link](https://github.com/wivizhang/EarthGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/8)|
-|2024|NeurIPS| |[VRSBench-Train](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/23)
+|2024|NeurIPS| |[VRSBench-Train](https://arxiv.org/abs/2406.12384)|[link](https://github.com/lx709/VRSBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/23)|
 |2024|arXiv| |[RS-GPT4V](https://arxiv.org/abs/2406.12479)|[link](https://pan.baidu.com/share/init?surl=Fz0KDpgp-_33BN8XTyQlBQ&pwd=5jny)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/14)|
 |2024|arXiv| |[DDFAV](https://arxiv.org/abs/2411.02733)|[link](https://github.com/HaodongLi2024/rspope/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/17)|
 |2024|TGRS| |[RSVP](https://arxiv.org/abs/2407.13596)|[link](https://github.com/wivizhang/EarthMarker)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/12)|
 |2024|ECCV| |[LHRS-Align & LHRS-Instruct](https://arxiv.org/abs/2402.02544)|[link](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/9)|
 |2024|arXiv| |[FIT-RS](https://arxiv.org/abs/2406.10100)|[link](https://github.com/Luo-Z13/SkySenseGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/18)|
 |2024|arXiv| |[EarthDial-Instruct](https://arxiv.org/pdf/2412.15190)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/19)|
-|2024|arXiv| |[QVG-360K](https://arxiv.org/abs/2410.23828)|[link](https://github.com/like413/VisTA)| |
+|2024|arXiv| |[QVG-360K](https://arxiv.org/abs/2410.23828)|[link](https://github.com/like413/VisTA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/24)|
 |2025|arXiv| |[GeoPixelD](https://arxiv.org/abs/2501.13925)|[link](https://github.com/mbzuai-oryx/GeoPixel)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/20)|
 |2025|arXiv| |[Falcon_SFT](https://arxiv.org/abs/2503.11070)|[link](https://github.com/TianHuiLab/Falcon)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/21)|
 |2025|AAAI| |[VersaD & HnstD & VariousRS-Instruct](https://arxiv.org/abs/2403.20213)|[link](https://github.com/opendatalab/VHM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/10)|
 |2025|ICASSP| |[ChangeChat-87k](https://ieeexplore.ieee.org/abstract/document/10890620)|[link](https://github.com/hanlinwu/ChangeChat)| |
-|2025|ICLR| |[TEOChatlas](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)| |
+|2025|ICLR| |[TEOChatlas](https://arxiv.org/abs/2410.06234)|[link](https://github.com/ermongroup/TEOChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/25)|
 
 
 
