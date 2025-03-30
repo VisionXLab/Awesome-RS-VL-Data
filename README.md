@@ -255,10 +255,14 @@ All remote sensing datasets used to construct the above-mentioned SFT datasets.
 ### Others
 
 - `SGG`: Scene Graph Generation
+- `Geo-Loc.`: Geo-Localization
+- `ER`: Event Recognition
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
 |2018|arXiv| |[SEN1-2](https://arxiv.org/abs/1807.01569)|[link](https://mediatum.ub.tum.de/1436631)|
+|2020|MM|`Geo-Loc.`|[University-1652](https://arxiv.org/abs/2002.12186)|[link](https://github.com/layumi/University1652-Baseline)|
+|2020|GRSM|`ER`|[ERA](https://arxiv.org/abs/2001.11394)|[link](https://lcmou.github.io/ERA_Dataset/)|
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
 |2025|TPAMI|`SGG`|[STAR](https://arxiv.org/abs/2406.09410)|[link](https://linlin-dev.github.io/project/STAR)|
