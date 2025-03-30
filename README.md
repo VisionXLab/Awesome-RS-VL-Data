@@ -110,6 +110,7 @@ This repository is proposed to facilitate training remote sensing Multimodal lar
 |2024|ECCV|`HBB`|[GeoText](https://arxiv.org/abs/2311.12751)|[link](https://multimodalgeo.github.io/GeoText/)| |
 |2024|TGRS|`HBB`|[RSVG-HR](https://ieeexplore.ieee.org/abstract/document/10542207)|[link](https://github.com/LANMNG/LQVG)| |
 |2024|TGRS|`HBB`|[OPT-RSVG](https://ieeexplore.ieee.org/abstract/document/10584552)|[link](https://github.com/like413/OPT-RSVG)| |
+|2024|arXiv|`SEG`|[AAVG](https://arxiv.org/abs/2411.11904)|[link](https://github.com/zytx121/GeoGround)| |
 |2024|TGRS|`SEG`|[RRSIS](https://ieeexplore.ieee.org/abstract/document/10458079)|[link](https://gitlab.lrz.de/ai4eo/reasoning/rrsis)| |
 |2024|CVPR|`SEG`|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[link](https://github.com/Lsan2401/RMSIN)| |
 
