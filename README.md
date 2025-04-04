@@ -292,10 +292,13 @@ If you want to see how many datasets used the `xBD` metadata during construction
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
+|2017|CVPR|`Geo-Loc.`|[CVUSA](https://arxiv.org/abs/1612.02709)|[link](https://github.com/viibridges/crossnet)|
 |2018|arXiv| |[SEN1-2](https://arxiv.org/abs/1807.01569)|[link](https://mediatum.ub.tum.de/1436631)|
+|2019|CVPR|`Geo-Loc.`|[CVACT](https://arxiv.org/abs/1903.12351)|[link](https://github.com/Liumouliu/OriCNN)|
 |2020|MM|`Geo-Loc.`|[University-1652](https://arxiv.org/abs/2002.12186)|[link](https://github.com/layumi/University1652-Baseline)|
 |2020|GRSM|`ER`|[ERA](https://arxiv.org/abs/2001.11394)|[link](https://lcmou.github.io/ERA_Dataset/)|
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[link](https://github.com/gastruc/OmniSat)|
+|2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[link](https://github.com/MitsuiChen14/LRSCLIP)|
 ||| |[]()|[link]()|
