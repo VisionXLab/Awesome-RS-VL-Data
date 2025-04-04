@@ -174,7 +174,8 @@ If you want to see how many datasets used the `xBD` metadata during construction
 ### Detection
 
 - `SAR`: Synthetic Aperture Radar
-- `IR`: Infrared 
+- `IR`: Infrared
+- `Attrs`: Object-level Attribute Understanding
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
@@ -222,7 +223,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2023|SD| |[HIT-UAV](https://www.nature.com/articles/s41597-023-02066-6)|[link](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)|
 |2024|Website| |Deforestation|[link](https://universe.roboflow.com/cse499deforestationsatellite/deforestation-satellite-imagery-335n4)|
 |2025|CVPR|`SAR`|[RSAR](https://arxiv.org/abs/2501.04440)|[link](https://github.com/zhasion/RSAR)|
-
+|2025|arXiv|`Attrs`|[EVAttrs-95K](https://arxiv.org/pdf/2503.23330)|[link](https://github.com/XiangTodayEatsWhat/EagleVision?tab=readme-ov-file)|
 
 
 ### Segmentation
