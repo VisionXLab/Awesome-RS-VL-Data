@@ -242,6 +242,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2018|Website| |[DeepGlobe Land Cover](https://arxiv.org/abs/1805.06561)|[link](http://deepglobe.org/)|
 |2019|CVPRW| |[iSAID](https://openaccess.thecvf.com/content_CVPRW_2019/html/DOAI/Zamir_iSAID_A_Large-scale_Dataset_for_Instance_Segmentation_in_Aerial_Images_CVPRW_2019_paper.html)|[link](https://captain-whu.github.io/iSAID/)|
 |2019|ICCV| |[SkyScapes](https://openaccess.thecvf.com/content_ICCV_2019/html/Azimi_SkyScapes__Fine-Grained_Semantic_Understanding_of_Aerial_Scenes_ICCV_2019_paper.html)|[link](https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/dlr-skyscapes)|
+|2020|FAI| |[CrowdAI](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2020.534696/full)|[link](https://www.aicrowd.com/challenges/mapping-challenge#datasets)|
 |2020|Website| |BHP Watertanks|[link](http://patreo.dcc.ufmg.br/2020/07/29/bh-pools-watertanks-datasets/)|
 |2020|RSE| |[GID-15](https://www.sciencedirect.com/science/article/abs/pii/S0034425719303414)|[link](https://captain-whu.github.io/GID15/)|
 |2020|arXiv| |[Hi-UCD](https://arxiv.org/abs/2011.03247)|[link](http://rsidea.whu.edu.cn/Hi-UCD_dataset.htm)|
