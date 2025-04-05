@@ -74,7 +74,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 
 ### Image Captioning / Retrieval
 
-> Image Captioning and Retrieval tasks share the same dataset, consisting of images and their corresponding descriptions.
+> Image Captioning and Retrieval tasks share the same dataset, consisting of images and their corresponding descriptions. The key difference is that captioning allows multiple textual descriptions per image.
 
 |Year|Venue|Name|Download|More|
 |:-:|:-:|-|-|:-:|
