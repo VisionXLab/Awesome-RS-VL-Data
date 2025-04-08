@@ -138,7 +138,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|CVPR|China|[RRSIS-D](https://arxiv.org/abs/2312.12470)|[![Star](https://img.shields.io/github/stars/Lsan2401/RMSIN.svg?style=social&label=Star)](https://github.com/Lsan2401/RMSIN)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/48)|
 |2024|arXiv|Singapore|[AAVG](https://arxiv.org/abs/2411.11904)|[![Star](https://img.shields.io/github/stars/zytx121/GeoGround.svg?style=social&label=Star)](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/46)|
 |2024|arXiv|Singapore|[refGeo](https://arxiv.org/abs/2411.11904)|[![Star](https://img.shields.io/github/stars/zytx121/GeoGround.svg?style=social&label=Star)](https://github.com/zytx121/GeoGround)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/67)|
-
+|2024|arXiv|China|[RISBench](https://arxiv.org/abs/2410.08613)|[![Star](https://img.shields.io/github/stars/HIT-SIRS/CroBIM.svg?style=social&label=Star)](https://github.com/HIT-SIRS/CroBIM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/69)|
 
 
 ## Meta Data
