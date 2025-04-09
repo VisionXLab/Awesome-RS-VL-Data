@@ -371,7 +371,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence](https://arxiv.org/abs/2503.16326)|N/A|
 |2025|CVPR||[XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|
 |2025|arXiv||[EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing](https://arxiv.org/abs/2503.23330)|[![Star](https://img.shields.io/github/stars/XiangTodayEatsWhat/EagleVision.svg?style=social&label=Star)](https://github.com/XiangTodayEatsWhat/EagleVision)|
-
+|2025|CVPR||[ROD-MLLM: Towards More Reliable Object Detection in Multimodal Large Language Models](https://cvpr.thecvf.com/virtual/2025/poster/32889)|[![Star](https://img.shields.io/github/stars/Ethan-yh/ROD-MLLM.svg?style=social&label=Star)](https://github.com/Ethan-yh/ROD-MLLM)|
 
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
