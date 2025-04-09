@@ -244,6 +244,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2023|SD| |[HIT-UAV](https://www.nature.com/articles/s41597-023-02066-6)|[![Star](https://img.shields.io/github/stars/suojiashun/HIT-UAV-Infrared-Thermal-Dataset.svg?style=social&label=Star)](https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset)|
 |2024|Website| |Deforestation|[link](https://universe.roboflow.com/cse499deforestationsatellite/deforestation-satellite-imagery-335n4)|
 |2024|TPAMI| |[GLH-Bridge](https://arxiv.org/abs/2312.02481)|[![Star](https://img.shields.io/github/stars/Luo-Z13/GLH-Bridge-page.svg?style=social&label=Star)](https://github.com/Luo-Z13/GLH-Bridge-page)|
+|2024|NeurIPS||[SARDet-100K](https://arxiv.org/abs/2403.06534)|[![Star](https://img.shields.io/github/stars/zcablii/SARDet_100K.svg?style=social&label=Star)](https://github.com/zcablii/SARDet_100K)|
 |2025|TPAMI|`SGG`|[STAR](https://arxiv.org/abs/2406.09410)|[![Star](https://img.shields.io/github/stars/Zhuzi24/SGG-ToolKit.svg?style=social&label=Star)](https://linlin-dev.github.io/project/STAR)|
 |2025|CVPR|`SAR`|[RSAR](https://arxiv.org/abs/2501.04440)|[![Star](https://img.shields.io/github/stars/zhasion/RSAR.svg?style=social&label=Star)](https://github.com/zhasion/RSAR)|
 |2025|arXiv|`Attrs`|[EVAttrs-95K](https://arxiv.org/abs/2503.23330)|[![Star](https://img.shields.io/github/stars/XiangTodayEatsWhat/EagleVision.svg?style=social&label=Star)](https://github.com/XiangTodayEatsWhat/EagleVision)|
@@ -317,12 +318,15 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2017|CVPR|`Geo-Loc.`|[CVUSA](https://arxiv.org/abs/1612.02709)|[![Star](https://img.shields.io/github/stars/viibridges/crossnet.svg?style=social&label=Star)](https://github.com/viibridges/crossnet)|
 |2018|arXiv| |[SEN1-2](https://arxiv.org/abs/1807.01569)|[link](https://mediatum.ub.tum.de/1436631)|
 |2019|CVPR|`Geo-Loc.`|[CVACT](https://arxiv.org/abs/1903.12351)|[![Star](https://img.shields.io/github/stars/Liumouliu/OriCNN.svg?style=social&label=Star)](https://github.com/Liumouliu/OriCNN)|
+|2020|CVPRW| |[SpaceNet6](https://arxiv.org/abs/2004.06500)|[link](https://spacenet.ai/sn6-challenge/)|
 |2020|MM|`Geo-Loc.`|[University-1652](https://arxiv.org/abs/2002.12186)|[![Star](https://img.shields.io/github/stars/layumi/University1652-Baseline.svg?style=social&label=Star)](https://github.com/layumi/University1652-Baseline)|
 |2020|GRSM|`ER`|[ERA](https://arxiv.org/abs/2001.11394)|[![Star](https://img.shields.io/github/stars/lcmou/ERA_Dataset.svg?style=social&label=Star)](https://lcmou.github.io/ERA_Dataset)|
+|2023|GRSM| |[DFC2023](https://ieeexplore.ieee.org/abstract/document/10089819)|[link](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)|
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[![Star](https://img.shields.io/github/stars/gastruc/OmniSat.svg?style=social&label=Star)](https://github.com/gastruc/OmniSat)|
 |2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
+|2025|arXiv| |[OpenEarthMap-SAR](https://arxiv.org/abs/2501.10891)|[link](https://zenodo.org/records/14622048)|
 ||| |[]()|[link]()|
 
 
