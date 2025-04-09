@@ -324,13 +324,13 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2020|GRSM|`ER`|[ERA](https://arxiv.org/abs/2001.11394)|[![Star](https://img.shields.io/github/stars/lcmou/ERA_Dataset.svg?style=social&label=Star)](https://lcmou.github.io/ERA_Dataset)|
 |2023|GRSM| |[DFC2023](https://ieeexplore.ieee.org/abstract/document/10089819)|[link](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)|
 |2023|ICCV| |[SatlasPretrain](https://arxiv.org/abs/2211.15660)|[link](https://satlas-pretrain.allen.ai/)|
+|2023|ICCV| |[GeoPile](https://arxiv.org/abs/2302.04476)|[![Star](https://img.shields.io/github/stars/mmendiet/GFM.svg?style=social&label=Star)](https://github.com/mmendiet/GFM)|
+|2023|GRSM| |[SSL4EO-S12](https://arxiv.org/abs/2211.07044)|[![Star](https://img.shields.io/github/stars/zhu-xlab/SSL4EO-S12.svg?style=social&label=Star)](https://github.com/zhu-xlab/SSL4EO-S12)|
 |2024|ISCRAM| |[QuakeSet](https://arxiv.org/abs/2403.18116)|[link](https://huggingface.co/datasets/DarthReca/quakeset)|
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[![Star](https://img.shields.io/github/stars/gastruc/OmniSat.svg?style=social&label=Star)](https://github.com/gastruc/OmniSat)|
 |2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|arXiv| |[OpenEarthMap-SAR](https://arxiv.org/abs/2501.10891)|[link](https://zenodo.org/records/14622048)|
-|2023|ICCV| |[GeoPile](https://arxiv.org/abs/2302.04476)|[![Star](https://img.shields.io/github/stars/mmendiet/GFM.svg?style=social&label=Star)](https://github.com/mmendiet/GFM)|
-
-
+||| |[]()||
 
 ## Papers
 
