@@ -328,8 +328,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[![Star](https://img.shields.io/github/stars/gastruc/OmniSat.svg?style=social&label=Star)](https://github.com/gastruc/OmniSat)|
 |2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|arXiv| |[OpenEarthMap-SAR](https://arxiv.org/abs/2501.10891)|[link](https://zenodo.org/records/14622048)|
-||| |[]()|[link]()|
-
+|2023|ICCV| |[GeoPile](https://arxiv.org/abs/2302.04476)|[![Star](https://img.shields.io/github/stars/mmendiet/GFM.svg?style=social&label=Star)](https://github.com/mmendiet/GFM)|
 
 
 
