@@ -1,10 +1,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-VLGFM/pulls)
 <br />
-# Awesome-RS-SFT-Data
-This repository is proposed to facilitate training remote sensing Multimodal large language models (RS-MLLMs) by recommending high-quality supervised fine-tuning (SFT) data. 
+# Awesome-RS-VL-Data
+This repository is proposed to facilitate training Remote Sensing Vision Language Models (RSVLMs) by recommending high-quality supervised fine-tuning (SFT) data. 
 
-> Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter and locate the datasets we need. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
+> Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter the datasets we need. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
 
 
 **Usage Demo:**
