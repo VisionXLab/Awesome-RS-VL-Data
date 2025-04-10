@@ -459,12 +459,25 @@ If you want to see how many datasets used the `xBD` metadata during construction
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-
+||| |[]()||
+||| |[]()||
 
 ## Awesome Lists
 
-|Year|Name|Download|Notes|
-|:-:|:-:|:-:|-|
+|Name|Download|
+|:-:|:-:|
+|Awesome Satellite Imagery Datasets|[![Star](https://img.shields.io/github/stars/chrieke/awesome-satellite-imagery-datasets.svg?style=social&label=Star)](https://github.com/chrieke/awesome-satellite-imagery-datasets)|
+|Awesome-Remote-Sensing-Foundation-Models|[![Star](https://img.shields.io/github/stars/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models)|
+|Awesome-Remote-Sensing-Multimodal-Large-Language-Models|[![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model.svg?style=social&label=Star)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model)|
+|Awesome Visual Language Models papers and resources for Earth Observation|[![Star](https://img.shields.io/github/stars/geoaigroup/awesome-vision-language-models-for-earth-observation.svg?style=social&label=Star)](https://github.com/geoaigroup/awesome-vision-language-models-for-earth-observation)|
+|Awesome remote sensing vision language models|[![Star](https://img.shields.io/github/stars/lzw-lzw/awesome-remote-sensing-vision-language-models.svg?style=social&label=Star)](https://github.com/lzw-lzw/awesome-remote-sensing-vision-language-models)|
+|Vision-Language Geo-Foundation Models|[![Star](https://img.shields.io/github/stars/zytx121/Awesome-VLGFM.svg?style=social&label=Star)](https://github.com/zytx121/Awesome-VLGFM)|
+|Awesome Remote Sensing Vision-Language Models & Papers|[![Star](https://img.shields.io/github/stars/om-ai-lab/awesome-RSVLM.svg?style=social&label=Star)](https://github.com/om-ai-lab/awesome-RSVLM)|
+|awesome-remote-image-captioning|[![Star](https://img.shields.io/github/stars/iOPENCap/awesome-remote-image-captioning.svg?style=social&label=Star)](https://github.com/iOPENCap/awesome-remote-image-captioning)|
+|Foundation Models for Remote Sensing and Earth Observation|[![Star](https://img.shields.io/github/stars/xiaoaoran/awesome-RSFMs.svg?style=social&label=Star)](https://github.com/xiaoaoran/awesome-RSFMs)|
+|Awesome VLMs in RS|[![Star](https://img.shields.io/github/stars/taolijie11111/VLMs-in-RS-review.svg?style=social&label=Star)](https://github.com/taolijie11111/VLMs-in-RS-review)|
+|Remote Sensing Foundation Models|[![Star](https://img.shields.io/github/stars/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models.svg?style=social&label=Star)](https://github.com/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models)|
+||[![Star](https://img.shields.io/github/stars/.svg?style=social&label=Star)]()|
 
 
 ## Citation
@@ -478,5 +491,5 @@ If you find our survey and repository useful for your research project, please c
 ## Contact
 
 ```
-
+VisionXLab@ECNU
 ```
