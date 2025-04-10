@@ -435,33 +435,6 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2023|arXiv||[Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs](https://arxiv.org/abs/2311.14656)|[![Star](https://img.shields.io/github/stars/jonathan-roberts1/charting-new-territories.svg?style=social&label=Star)](https://github.com/jonathan-roberts1/charting-new-territories)|
 |2023|arXiv||[The Potential of Visual ChatGPT For Remote Sensing](https://arxiv.org/abs/2304.13009)|N/A|
 
-
-###  Image Captioning
-
-|Year|Venue|Keywords|Name|Download|
-|:-:|:-:|:-:|-|-|
-
-
-###  Text-Image Retrieval
-
-|Year|Venue|Keywords|Name|Download|
-|:-:|:-:|:-:|-|-|
-
-
-###  Visual Question Answering
-
-|Year|Venue|Keywords|Name|Download|
-|:-:|:-:|:-:|-|-|
-
-
-
-###  Visual Grounding
-
-|Year|Venue|Keywords|Name|Download|
-|:-:|:-:|:-:|-|-|
-||| |[]()||
-||| |[]()||
-
 ## Awesome Lists
 
 |Name|Download|
