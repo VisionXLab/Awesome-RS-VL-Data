@@ -378,7 +378,8 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[OmniGeo: Towards a Multimodal Large Language Models for Geospatial Artificial Intelligence](https://arxiv.org/abs/2503.16326)|N/A|
 |2025|CVPR||[XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|
 |2025|arXiv||[EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing](https://arxiv.org/abs/2503.23330)|[![Star](https://img.shields.io/github/stars/XiangTodayEatsWhat/EagleVision.svg?style=social&label=Star)](https://github.com/XiangTodayEatsWhat/EagleVision)|
-|2025|CVPR||[ROD-MLLM: Towards More Reliable Object Detection in Multimodal Large Language Models](https://cvpr.thecvf.com/virtual/2025/poster/32889)|[![Star](https://img.shields.io/github/stars/Ethan-yh/ROD-MLLM.svg?style=social&label=Star)](https://github.com/Ethan-yh/ROD-MLLM)|
+|2025|arXiv||[SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R1.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R1)|
+|2025|arXiv||[EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery](https://arxiv.org/abs/2504.12795)|NaN|
 
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
