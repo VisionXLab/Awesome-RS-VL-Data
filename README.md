@@ -59,7 +59,6 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 ## Comprehensive Benchmark
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
-|2023|arXiv|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
 |2024|ICLR|United States|[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/27)|
 |2024|CVPR|United Arab Emirates|[GeoChat-Bench](https://arxiv.org/abs/2311.15826)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/geochat.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/geochat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/28)|
 |2024|ECCV|China|[LHRS-Bench](https://arxiv.org/abs/2402.02544)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/29)|
@@ -71,7 +70,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|arXiv|United Arab Emirates|[GEOBench-VLM](https://arxiv.org/abs/2411.19325)|[![Star](https://img.shields.io/github/stars/The-AI-Alliance/GEO-Bench-VLM.svg?style=social&label=Star)](https://github.com/The-AI-Alliance/GEO-Bench-VLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/13)|
 |2025|AAAI|China|[UrBench](https://arxiv.org/abs/2408.17267)|[![Star](https://img.shields.io/github/stars/opendatalab/UrBench.svg?style=social&label=Star)](https://opendatalab.github.io/UrBench/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/33)|
 |2025|CVPR|China|[XLRS-Bench](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/64)|
-
+|2025|ISPRS|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
 
 
 
@@ -345,7 +344,6 @@ If you want to see how many datasets used the `xBD` metadata during construction
 
 |Year|Venue|Keywords|Name|Download|
 |:-:|:-:|:-:|-|-|
-|2023|arXiv||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|
 |2024|CVPR||[GeoChat: Grounded Large Vision-Language Model for Remote Sensing](https://arxiv.org/abs/2311.15826)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/geochat.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/geochat)|
 |2024|ISPRS||[SkyEyeGPT: Unifying Remote Sensing Vision-Language Tasks via Instruction Tuning with Large Language Model](https://arxiv.org/abs/2401.09712)|[![Star](https://img.shields.io/github/stars/ZhanYang-nwpu/SkyEyeGPT.svg?style=social&label=Star)](https://github.com/ZhanYang-nwpu/SkyEyeGPT)|
 |2024|TGRS||[Earthgpt: A universal multi-modal large language model for multi-sensor image comprehension in remote sensing domain](https://arxiv.org/abs/2401.16822)|[![Star](https://img.shields.io/github/stars/wivizhang/EarthGPT.svg?style=social&label=Star)](https://github.com/wivizhang/EarthGPT)|
@@ -380,7 +378,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[EagleVision: Object-level Attribute Multimodal LLM for Remote Sensing](https://arxiv.org/abs/2503.23330)|[![Star](https://img.shields.io/github/stars/XiangTodayEatsWhat/EagleVision.svg?style=social&label=Star)](https://github.com/XiangTodayEatsWhat/EagleVision)|
 |2025|arXiv||[SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R1.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R1)|
 |2025|arXiv||[EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery](https://arxiv.org/abs/2504.12795)|NaN|
-
+|2025|ISPRS||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
