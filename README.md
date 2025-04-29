@@ -54,6 +54,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|GRSM|China|[GeoPixInstruct](https://arxiv.org/abs/2501.06828)|[![Star](https://img.shields.io/github/stars/Norman-Ou/GeoPix.svg?style=social&label=Star)](https://github.com/Norman-Ou/GeoPix)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/38)|
 |2025|arXiv|Japan|[SARLANG-1M](https://arxiv.org/abs/2504.03254v1)|[![Star](https://img.shields.io/github/stars/Jimmyxichen/SARLANG-1M.svg?style=social&label=Star)](https://github.com/Jimmyxichen/SARLANG-1M)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/70)|
 |2025|arXiv|China|[M-RSVP](https://arxiv.org/abs/2504.12795)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/77)|
+|2025|arXiv|China|[SARChat-Bench-2M](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/78)|
 
 
 ## Comprehensive Benchmark
@@ -71,7 +72,6 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|AAAI|China|[UrBench](https://arxiv.org/abs/2408.17267)|[![Star](https://img.shields.io/github/stars/opendatalab/UrBench.svg?style=social&label=Star)](https://opendatalab.github.io/UrBench/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/33)|
 |2025|CVPR|China|[XLRS-Bench](https://arxiv.org/abs/2503.23771)|[![Star](https://img.shields.io/github/stars/AI9Stars/XLRS-Bench.svg?style=social&label=Star)](https://xlrs-bench.github.io/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/64)|
 |2025|ISPRS|China|[RSIEval](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/22)|
-
 
 
 
@@ -379,6 +379,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model](https://arxiv.org/abs/2504.09644)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R1.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R1)|
 |2025|arXiv||[EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery](https://arxiv.org/abs/2504.12795)|NaN|
 |2025|ISPRS||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|
+|2025|arXiv||[SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
