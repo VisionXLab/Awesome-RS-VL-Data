@@ -472,5 +472,5 @@ If you find our survey and repository useful for your research project, please c
 ## Contact
 
 ```
-VisionXLab@ECNU
+VisionXLab
 ```
