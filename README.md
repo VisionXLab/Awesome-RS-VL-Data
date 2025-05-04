@@ -8,7 +8,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
-<img src="https://github.com/user-attachments/assets/6d0c3ee8-a9d1-4d9b-97d4-13d94ebdf4c4" alt="categorization" width="800"/>
+<img src="https://github.com/user-attachments/assets/8d45f4b1-052b-4175-979d-b0cbeb0661ee" alt="categorization" width="800"/>
 ![number](https://github.com/user-attachments/assets/204f3c09-37dd-4c78-a125-39ec02852d50)
 ![national](https://github.com/user-attachments/assets/8c667769-687c-45dc-bee2-74c878d3b176)
 
