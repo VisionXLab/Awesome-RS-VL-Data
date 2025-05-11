@@ -152,7 +152,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|arXiv|China|[RISBench](https://arxiv.org/abs/2410.08613)|[![Star](https://img.shields.io/github/stars/HIT-SIRS/CroBIM.svg?style=social&label=Star)](https://github.com/HIT-SIRS/CroBIM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/69)|
 |2025|arXiv|China|[UAVVG](https://arxiv.org/abs/2504.07836)|[![Star](https://img.shields.io/github/stars/Ideal-ljl/AerialVG.svg?style=social&label=Star)](https://github.com/Ideal-ljl/AerialVG)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/75)|
 |2025|arXiv|China|[EarthReason](https://arxiv.org/abs/2504.09644)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R1.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R1)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/76)|
-
+|2025|arXiv|United States|[GRES](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/79)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
