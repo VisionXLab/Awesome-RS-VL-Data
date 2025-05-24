@@ -387,7 +387,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|ISPRS||[Rsgpt: A remote sensing vision language model and benchmark](https://arxiv.org/abs/2307.15266)|[![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star)](https://github.com/Lavender105/RSGPT)|
 |2025|arXiv||[SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|
 |2025|arXiv||[LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|
-
+|2025|GRSM||[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[![Star](https://img.shields.io/github/stars/om-ai-lab/ImageRAG.svg?style=social&label=Star)](https://github.com/om-ai-lab/ImageRAG)|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
