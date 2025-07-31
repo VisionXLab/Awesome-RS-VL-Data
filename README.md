@@ -15,7 +15,6 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
   
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
-<img src="https://github.com/user-attachments/assets/8d45f4b1-052b-4175-979d-b0cbeb0661ee" alt="categorization" width="800"/>
 ![number](https://github.com/user-attachments/assets/204f3c09-37dd-4c78-a125-39ec02852d50)
 ![national](https://github.com/user-attachments/assets/8c667769-687c-45dc-bee2-74c878d3b176)
 
@@ -161,7 +160,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[EarthReason](https://arxiv.org/abs/2504.09644)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R1.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R1)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/76)|
 |2025|arXiv|United States|[GRES](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/79)|
 |2025|arXiv|China|[RefDrone](https://arxiv.org/abs/2502.00392)|[![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star)](https://github.com/sunzc-sunny/refdrone)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/80)|
-|2025|arXiv|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
+|2025|MM|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
@@ -381,7 +380,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|AAAI||[VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis](https://arxiv.org/abs/2403.20213v4)|[![Star](https://img.shields.io/github/stars/opendatalab/VHM.svg?style=social&label=Star)](https://github.com/opendatalab/VHM)|
 |2025|CVPR||[EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues](https://arxiv.org/abs/2412.15190)|[![Star](https://img.shields.io/github/stars/hiyamdebary/EarthDial.svg?style=social&label=Star)](https://github.com/hiyamdebary/EarthDial)|
 |2025|GRSM||[GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing](https://arxiv.org/abs/2501.06828)|[![Star](https://img.shields.io/github/stars/Norman-Ou/GeoPix.svg?style=social&label=Star)](https://github.com/Norman-Ou/GeoPix)|
-|2025|arXiv||[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/GeoPixel.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/GeoPixel)|
+|2025|ICML||[GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing](https://arxiv.org/abs/2501.13925)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/GeoPixel.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/GeoPixel)|
 |2025|arXiv| |[Quality-Driven Curation of Remote Sensing Vision-Language Data via Learned Scoring Models](https://arxiv.org/abs/2503.00743)|N/A|
 |2025|arXiv| |[GeoLangBind: Unifying Earth Observation with Agglomerative Vision-Language Foundation Models](https://arxiv.org/abs/2503.06312)|[![Star](https://img.shields.io/github/stars/xiong-zhitong/GeoLB-SigLIP.svg?style=social&label=Star)](https://github.com/xiong-zhitong/GeoLB-SigLIP)|
 |2025|IGARSS||[LMMRotate: A Simple Aerial Detection Baseline of Multimodal Language Models](https://arxiv.org/abs/2501.09720)|[![Star](https://img.shields.io/github/stars/VisionXLab/mllm-mmrotate.svg?style=social&label=Star)](https://github.com/VisionXLab/mllm-mmrotate)|
@@ -412,7 +411,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|arXiv||[Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment](https://arxiv.org/abs/2402.09816)|N/A|
 |2024|TGRS||[RemoteCLIP: A Vision Language Foundation Model for Remote Sensing](https://arxiv.org/abs/2306.11029)|[![Star](https://img.shields.io/github/stars/ChenDelong1999/RemoteCLIP.svg?style=social&label=Star)](https://github.com/ChenDelong1999/RemoteCLIP)|
 |2025|arXiv| |[LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
-|2025|arXiv| |[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|N/A|
+|2025|PKDD| |[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
 
 ### Intelligent Agents
 
