@@ -10,7 +10,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 🔥🔥🔥 Last Updated on 2025.08.06 🔥🔥🔥
 
-- **2025.08.06**: Update REOBench.
+- **2025.08.06**: Update REOBench, VectorLLM.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
 - **2025.05.24**: Update ImageRAG.
@@ -399,6 +399,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|
 |2025|GRSM||[ImageRAG: Enhancing Ultra High Resolution Remote Sensing Imagery Analysis with ImageRAG](https://arxiv.org/abs/2411.07688)|[![Star](https://img.shields.io/github/stars/om-ai-lab/ImageRAG.svg?style=social&label=Star)](https://github.com/om-ai-lab/ImageRAG)|
 |2025|arXiv||[RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning](https://arxiv.org/abs/2507.20776)|NaN|
+|2025|arXiv||[VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs](https://arxiv.org/abs/2507.04664)|NaN|
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
