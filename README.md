@@ -8,12 +8,12 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.08.06 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.08.012 🔥🔥🔥
 
+- **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
 - **2025.05.27**: Update RemoteSAM-270K.
-- **2025.05.24**: Update ImageRAG.
 
   
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
@@ -138,6 +138,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|AAAI|China|[EarthVQA](https://arxiv.org/abs/2312.12222)|[link](https://junjuewang.top/EarthVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/37)|
 |2024|arXiv|United Arab Emirates|[GeoLLaVA](https://arxiv.org/abs/2410.19552)|[![Star](https://img.shields.io/github/stars/HosamGen/GeoLLaVA.svg?style=social&label=Star)](https://github.com/HosamGen/GeoLLaVA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/63)|
 |2024|arXiv|China|[QAG-360K](https://arxiv.org/abs/2410.23828)|[![Star](https://img.shields.io/github/stars/like413/VisTA.svg?style=social&label=Star)](https://github.com/like413/VisTA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/24)|
+|2024|ISPRS|Netherlands|[HRVQA]([https://arxiv.org/abs/2410.23828](https://www.sciencedirect.com/science/article/pii/S0924271624002326))|[link](https://hrvqa.nl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/88)|
 |2025|ICLR|China|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[![Star](https://img.shields.io/github/stars/MME-Benchmarks/MME-RealWorld.svg?style=social&label=Star)](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 |2025|arXiv|China|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[![Star](https://img.shields.io/github/stars/VisionXLab/LRS-VQA.svg?style=social&label=Star)](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
 
