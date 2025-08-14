@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.08.012 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.08.014 🔥🔥🔥
 
+- **2025.08.14**: Update .
 - **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
@@ -141,6 +142,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|ISPRS|Netherlands|[HRVQA](https://arxiv.org/pdf/2301.09460)|[link](https://hrvqa.nl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/88)|
 |2025|ICLR|China|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[![Star](https://img.shields.io/github/stars/MME-Benchmarks/MME-RealWorld.svg?style=social&label=Star)](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 |2025|arXiv|China|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[![Star](https://img.shields.io/github/stars/VisionXLab/LRS-VQA.svg?style=social&label=Star)](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
+
 
 
 
@@ -353,6 +355,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2024|LNCS| |[TreeSatAI-TS](https://link.springer.com/chapter/10.1007/978-3-031-73390-1_24)|[![Star](https://img.shields.io/github/stars/gastruc/OmniSat.svg?style=social&label=Star)](https://github.com/gastruc/OmniSat)|
 |2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|arXiv| |[OpenEarthMap-SAR](https://arxiv.org/abs/2501.10891)|[link](https://zenodo.org/records/14622048)|
+|2025|ICCV| |[CrossText2Loc](https://arxiv.org/abs/2412.17007)|[![Star](https://img.shields.io/github/stars/yejy53/CVG-Text.svg?style=social&label=Star)]( https://yejy53.github.io/CVG-Text/)|
 ||| |[]()||
 
 ## Papers
@@ -419,7 +422,8 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv| |[LRSCLIP: A Vision-Language Foundation Model for Aligning Remote Sensing Image with Longer Text](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|PKDD| |[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
 |2025|ICCV| |[Copernicus: Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849)|[![Star](https://img.shields.io/github/stars/zhu-xlab/Copernicus-FM.svg?style=social&label=Star)](https://github.com/zhu-xlab/Copernicus-FM)|
-
+|2025|arXiv| |[SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/abs/2507.13812)|N/A|
+|2025|arXiv| |[CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation](https://arxiv.org/abs/2507.00356)|[![Star](https://img.shields.io/github/stars/1921134176/CGEarthEye.svg?style=social&label=Star)](https://github.com/1921134176/CGEarthEye)|
 ### Intelligent Agents
 
 |Year|Venue|Keywords|Name|Download|
