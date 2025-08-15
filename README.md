@@ -8,7 +8,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.08.014 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.08.14 🔥🔥🔥
 
 - **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
 - **2025.08.12**: Update HRVQA.
