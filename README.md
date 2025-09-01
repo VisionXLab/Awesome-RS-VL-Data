@@ -144,6 +144,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2024|ISPRS|Netherlands|[HRVQA](https://arxiv.org/pdf/2301.09460)|[link](https://hrvqa.nl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/88)|
 |2025|ICLR|China|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[![Star](https://img.shields.io/github/stars/MME-Benchmarks/MME-RealWorld.svg?style=social&label=Star)](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 |2025|arXiv|China|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[![Star](https://img.shields.io/github/stars/VisionXLab/LRS-VQA.svg?style=social&label=Star)](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
+|2025|arXiv|China|[REASONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/Reason-Map.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/Reason-Map/issues/90)|
 
 
 
