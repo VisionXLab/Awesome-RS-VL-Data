@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.09.01 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.09.14 🔥🔥🔥
 
+- **2025.09.14**: Update RS-OOD, Llama3-MS-CLIP, MSNav, RS-vHeat, Street 2 Sat -Text
 - **2025.09.01**: Update RemoteReasoner,RESONMAP
 - **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
 - **2025.08.12**: Update HRVQA.
@@ -409,7 +410,11 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning](https://arxiv.org/abs/2507.20776)|NaN|
 |2025|arXiv||[VectorLLM: Human-like Extraction of Structured Building Contours vis Multimodal LLMs](https://arxiv.org/abs/2507.04664)|NaN|
 |2025|arXiv||[RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow](https://arxiv.org/abs/2507.19280)|NaN|
-
+|2025|arXiv||[RS-OOD: A Vision-Language Augmented Framework for  Out-of-Distribution Detection in Remote Sensing](https://arxiv.org/abs/2503.06683)|NaN|
+|2025|arXiv||[MSNav: Zero-Shot Vision-and-Language Navigation with Dynamic Memory and LLM Spatial Reasoning](https://arxiv.org/pdf/2508.16654)|NaN|
+|2025| ECML PKDD 2025||[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
+|2025|IEEE||[Satellite Image Synthesis From Street View With Fine-Grained Spatial Textual Guidance: A novel framework](https://ieeexplore.ieee.org/document/11083891)|NaN|
+|2025|arXiv||[RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model](https://arxiv.org/abs/2411.17984)|NaN|
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
 
