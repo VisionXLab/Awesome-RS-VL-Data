@@ -93,6 +93,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[SARChat-Bench-2M](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/78)|
 |2025|arXiv|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 |2025|arXiv|China|[RESONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/ReasonMap.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/90)|
+|2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
 
 ## Task-specific SFT
 
