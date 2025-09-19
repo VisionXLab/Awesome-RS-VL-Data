@@ -8,9 +8,10 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.09.16 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.09.19 🔥🔥🔥
 
-- **2025.09.14**: Update GLEAM
+- **2025.09.19**: Update NWPU-Refer
+- **2025.09.16**: Update GLEAM
 - **2025.09.14**: Update RS-OOD, Llama3-MS-CLIP, MSNav, RS-vHeat, Street 2 Sat -Text
 - **2025.09.01**: Update RemoteReasoner,RESONMAP
 - **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
