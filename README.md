@@ -134,6 +134,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
 |2025|GRSM|China|[Street2Sat-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/92)|
 |2025|GRSM|China|[CVACT-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/93)|
+|2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
 ||| |[]()||
 
 ### Visual Question Answering (VQA)
@@ -155,7 +156,6 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|ICLR|China|[MME-RealWorld](https://arxiv.org/abs/2408.13257)|[![Star](https://img.shields.io/github/stars/MME-Benchmarks/MME-RealWorld.svg?style=social&label=Star)](https://mme-realworld.github.io/home_page.html)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/11)|
 |2025|arXiv|China|[LRS-VQA](https://arxiv.org/abs/2503.07588)|[![Star](https://img.shields.io/github/stars/VisionXLab/LRS-VQA.svg?style=social&label=Star)](https://github.com/VisionXLab/LRS-VQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/65)|
 |2025|arXiv|China|[REASONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/Reason-Map.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/Reason-Map/issues/90)|
-|2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/fscdc/AgroMind.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AgroMind/issues/96)|
 |2025|ISPRS|China|[AVI-Math](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/fscdc/AVI-Math.svg?style=social&label=Star)](https://github.com/VisionXLab/avi-math)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/97)|
 
