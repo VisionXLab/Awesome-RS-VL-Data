@@ -182,7 +182,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|United States|[GRES](https://arxiv.org/abs/2505.02829)|[![Star](https://img.shields.io/github/stars/lisat-bair/LISAt_code.svg?style=social&label=Star)](https://github.com/lisat-bair/LISAt_code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/79)|
 |2025|arXiv|China|[RefDrone](https://arxiv.org/abs/2502.00392)|[![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star)](https://github.com/sunzc-sunny/refdrone)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/80)|
 |2025|MM|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
-|2025|arXiv|China|[RefDrone](https://arxiv.org/pdf/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
+|2025|arXiv|China|[NWPU-Refer](https://arxiv.org/pdf/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
