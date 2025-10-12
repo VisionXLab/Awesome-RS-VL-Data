@@ -15,7 +15,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 - **2025.09.16**: Update GLEAM
 - **2025.09.14**: Update RS-OOD, Llama3-MS-CLIP, MSNav, RS-vHeat, Street 2 Sat -Text
 - **2025.09.01**: Update RemoteReasoner,RESONMAP
-- **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPEX .
+- **2025.08.14**: Update  SkySense V2, CGEarthEye, CrossText2Loc, SPIE .
 - **2025.08.12**: Update HRVQA.
 - **2025.08.06**: Update REOBench, VectorLLM, Copernicus, LHRS-Bot-Nova.
 - **2025.07.31**: Update RS-VL3M and AirSpatialBot.
@@ -130,7 +130,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|Greece|[GAIA](https://arxiv.org/abs/2502.09598)|[![Star](https://img.shields.io/github/stars/Orion-AI-Lab/GAIA.svg?style=social&label=Star)](https://github.com/Orion-AI-Lab/GAIA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/72)|
 |2025|arXiv|China|[CVG-Text](https://arxiv.org/abs/2412.17007)|[![Star](https://img.shields.io/github/stars/yejy53/CVG-Text.svg?style=social&label=Star)](https://yejy53.github.io/CVG-Text/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/73)|
 |2025|arXiv|Germany|[Llama3-SSL4EOS12](https://arxiv.org/abs/2503.15969)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/74)|
-|2025|arXiv|China|[SPEX](https://www.arxiv.org/abs/2508.05202)|[![Star](https://img.shields.io/github/stars/MiliLab/SPEX.svg?style=social&label=Star)](https://github.com/MiliLab/SPEX)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/89)|
+|2025|arXiv|China|[SPIE](https://www.arxiv.org/abs/2508.05202)|[![Star](https://img.shields.io/github/stars/MiliLab/SPEX.svg?style=social&label=Star)](https://github.com/MiliLab/SPEX)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/89)|
 |2025|arXiv|China|[GLEAM](https://arxiv.org/abs/2509.07450)|[![Star](https://img.shields.io/github/stars/Lucky-Lance/GLEAM.svg?style=social&label=Star)](https://github.com/Lucky-Lance/GLEAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/91)|
 |2025|GRSM|China|[Street2Sat-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/92)|
 |2025|GRSM|China|[CVACT-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/93)|
