@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.09.29 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.10.13 🔥🔥🔥
 
+- **2025.10.13**: Update Geo-R1、GRSM、SAR-GEOVL-1M
 - **2025.09.29**: Update SAR-TEXT，AgroMind，AVI-MATH
 - **2025.09.19**: Update NWPU-Refer
 - **2025.09.16**: Update GLEAM
