@@ -135,6 +135,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|GRSM|China|[Street2Sat-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/92)|
 |2025|GRSM|China|[CVACT-Text](https://ieeexplore.ieee.org/document/11083891)|N/A|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/93)|
 |2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
+|2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 ||| |[]()||
 
 ### Visual Question Answering (VQA)
@@ -158,7 +159,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[REASONMAP](https://arxiv.org/pdf/2505.18675)|[![Star](https://img.shields.io/github/stars/fscdc/Reason-Map.svg?style=social&label=Star)](https://github.com/fscdc/ReasonMap)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/Reason-Map/issues/90)|
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/fscdc/AgroMind.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AgroMind/issues/96)|
 |2025|ISPRS|China|[AVI-Math](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/fscdc/AVI-Math.svg?style=social&label=Star)](https://github.com/VisionXLab/avi-math)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/97)|
-
+|2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 
 
 
@@ -426,6 +427,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025| ECML PKDD 2025||[Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation](https://arxiv.org/abs/2503.15969)|[![Star](https://img.shields.io/github/stars/IBM/MS-CLIP.svg?style=social&label=Star)](https://github.com/IBM/MS-CLIP)|
 |2025|IEEE||[Satellite Image Synthesis From Street View With Fine-Grained Spatial Textual Guidance: A novel framework](https://ieeexplore.ieee.org/document/11083891)|NaN|
 |2025|arXiv||[RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model](https://arxiv.org/abs/2411.17984)|NaN|
+|2025|arXiv||[Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning](https://arxiv.org/abs/2509.21976)|[![Star](https://img.shields.io/github/stars/Geo-R1/geo-r1.svg?style=social&label=Star)](https://github.com/Geo-R1/geo-r1)|
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
 
 
@@ -476,6 +478,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|JAG| |[Towards the next generation of Geospatial Artificial Intelligence](https://www.sciencedirect.com/science/article/pii/S1569843225000159)|N/A|
 |2025|Innovation| |[Unleashing the potential of remote sensing foundation models via bridging data and computility islands](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00044-X)|N/A|
 |2025|arXiv| |[A Survey on Remote Sensing Foundation Models: From Vision to Multimodality]()|[![Star](https://img.shields.io/github/stars/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models.svg?style=social&label=Star)](https://github.com/IRIP-BUAA/A-Review-for-remote-sensing-vision-language-models)|
+|2025|IEEE| |[Regression in Earth Observation: Are vision–language models up to the challenge?](https://arxiv.org/abs/2502.14088)|N/A|
 
 ###  Exploration
 
