@@ -8,8 +8,9 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.10.31 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.11.17 🔥🔥🔥
 
+- **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
 - **2025.10.23**: Update RSCC
 - **2025.10.13**: Update Geo-R1、GRSM、SAR-GEOVL-1M
@@ -79,6 +80,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[M-RSVP](https://arxiv.org/abs/2504.12795)|[![Star](https://img.shields.io/github/stars/wivizhang/EarthGPT-X.svg?style=social&label=Star)](https://github.com/wivizhang/EarthGPT-X)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/77)|
 |2025|arXiv|China|[RS-VL3M](https://arxiv.org/abs/2507.20776)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/85)|
 |2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
+|2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
 
 ## Comprehensive Benchmark
 |Year|Venue|Country|Name|Download|More|
