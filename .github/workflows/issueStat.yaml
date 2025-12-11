@@ -1,0 +1,15 @@
+name: Issue-Stats
+description: Statistics issues and push to tag message
+
+on:
+  issues:
+    types: [opened, closed, reopened]
+      # [labeled, unlabeled] will trigger repeatedly
+  workflow_dispatch:
+    # allows manual trigger from Actions tab
+
+jobs:
+  stats:
+    uses: madderscientist/issueStat/.github/workflows/issueStat.yaml@main
+    with:
+      tag_name: dashboard
