@@ -8,7 +8,8 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.11.17 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
+- **2025.12.11**:Landsat30-AU
 - **2025.12.01**:VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
@@ -137,6 +138,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|arXiv|China|[SAR-TEXT](https://arxiv.org/abs/2507.18743)|[![Star](https://img.shields.io/github/stars/fscdc/SAR-TEXT.svg?style=social&label=Star)](https://github.com/YiguoHe/SAR-TEXT/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/SAR-TEXT/issues/95)|
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 |2025|NeurIPS 2025|China|[RSCC](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/Bili-Sakura/RSCC.svg?style=social&label=Star)](https://github.com/Bili-Sakura/RSCC)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/99)|
+|2025|arXiv|Australian|[Landsat30-AU-CAP](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/107)|
 ||| |[]()||
 
 ### Visual Question Answering (VQA)
@@ -161,6 +163,7 @@ Temporal Understanding: ![](https://img.shields.io/github/issues/zytx121/Awesome
 |2025|CCF-A|China|[AgroMind](https://arxiv.org/abs/2505.12207)|[![Star](https://img.shields.io/github/stars/fscdc/AgroMind.svg?style=social&label=Star)](https://rssysu.github.io/AgroMind/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AgroMind/issues/96)|
 |2025|ISPRS|China|[AVI-Math](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/fscdc/AVI-Math.svg?style=social&label=Star)](https://github.com/VisionXLab/avi-math)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/97)|
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
+|2025|arXiv|Australian|[Landsat30-AU-VQA](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/106)|
 
 
 
