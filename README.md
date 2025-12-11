@@ -14,11 +14,7 @@ This repository is proposed to facilitate training Remote Sensing Vision Languag
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
 
-  
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
-![number](https://github.com/user-attachments/assets/204f3c09-37dd-4c78-a125-39ec02852d50)
-![national](https://github.com/user-attachments/assets/8c667769-687c-45dc-bee2-74c878d3b176)
-
 
 **Usage Demo:**
 
