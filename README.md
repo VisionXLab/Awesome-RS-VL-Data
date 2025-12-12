@@ -24,7 +24,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 
 🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
 - **2025.12.11**: Landsat30-AU , MiliLab/UniGeoSeg , CitySet
-- **2025.12.01**: VICoT-HRSC , GeoPlan-Bench , LRS-GRO , ThinkGeo
+- **2025.12.01**: VICoT-HRSC, GeoPlan-Bench, LRS-GRO, ThinkGeo
 - **2025.11.17**: Update ScoreRS
 - **2025.10.31**: Update Earth-Bench
 - 🚀🚀🚀 We will release the survey ASAP.
@@ -45,9 +45,9 @@ By providing curated, high-quality dataset recommendations, this repository addr
 ## Summary of Contents
 
 - [Summary of Contents](#summary-of-contents)
-- [Comprehensive SFT](comprehensive-sft)
-- [Comprehensive Benchmark](comprehensive-benchmark)
-- [Task-specific SFT](task-specific-sft)
+- [Comprehensive Data](comprehensive-data)
+- [Comprehensive Benchmarks](comprehensive-benchmarks)
+- [Task-specific Data](task-specific-data)
 - [Meta Data](meta-data)
 - [Papers](papers)
 - [Awesome Lists](awesome-lists)
@@ -55,7 +55,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 - [Contact](contact)
  
 
-## Comprehensive SFT
+## Comprehensive Data
 
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
@@ -83,9 +83,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|arXiv|China|[VICoT-HRSC](https://arxiv.org/abs/2503.00743)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/102)|
 |2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 
-
-
-## Comprehensive Benchmark
+## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
 |2024|ICLR|United States|[NAIP-OSM](https://arxiv.org/abs/2312.06960)|[link](https://graft.cs.cornell.edu)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/27)|
@@ -109,10 +107,8 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|arXive|China|[GeoPlan-Bench](https://arxiv.org/abs/2511.17198)|[![Star](https://img.shields.io/github/stars/earth-insights.github.io/EarthAgent.svg?style=social&label=Star)](https://earth-insights.github.io/EarthAgent)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/103)|
 |2025|arXiv|China|[LRS-GRO](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/earth-insights.github.io/ZoomEarth.svg?style=social&label=Star)](https://earth-insights.github.io/ZoomEarth)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/104)|
 |2025|arXiv|Abu Dhabi IBM|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
-|2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/pdf/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
-## Task-specific SFT
 
-
+## Task-specific Data
 
 ### Image Captioning / Retrieval
 
@@ -150,7 +146,6 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 |2025|NeurIPS 2025|China|[RSCC](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/Bili-Sakura/RSCC.svg?style=social&label=Star)](https://github.com/Bili-Sakura/RSCC)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/99)|
 |2025|AAA2026|Australian|[Landsat30-AU-CAP](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/107)|
-||| |[]()||
 
 ### Visual Question Answering (VQA)
 
@@ -199,6 +194,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|arXiv|China|[RefDrone](https://arxiv.org/abs/2502.00392)|[![Star](https://img.shields.io/github/stars/sunzc-sunny/refdrone.svg?style=social&label=Star)](https://github.com/sunzc-sunny/refdrone)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/80)|
 |2025|MM|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
 |2025|arXiv|China|[NWPU-Refer](https://arxiv.org/pdf/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
+|2025|arXiv|China|[GeoSeg-1M & GeoSeg-Bench](https://arxiv.org/pdf/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
@@ -388,7 +384,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv| |[OpenLandMap](https://arxiv.org/abs/2503.19311)|[![Star](https://img.shields.io/github/stars/MitsuiChen14/LRSCLIP.svg?style=social&label=Star)](https://github.com/MitsuiChen14/LRSCLIP)|
 |2025|arXiv| |[OpenEarthMap-SAR](https://arxiv.org/abs/2501.10891)|[link](https://zenodo.org/records/14622048)|
 |2025|ICCV| |[CrossText2Loc](https://arxiv.org/abs/2412.17007)|[![Star](https://img.shields.io/github/stars/yejy53/CVG-Text.svg?style=social&label=Star)]( https://yejy53.github.io/CVG-Text/)|
-||| |[]()||
+
 
 ## Papers
 
