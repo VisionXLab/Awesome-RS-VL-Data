@@ -81,6 +81,7 @@ By providing curated, high-quality dataset recommendations, this repository addr
 |2025|ISPRS|China|[LHRS-Align-Recap & LHRS-Instruct-Plus](https://www.sciencedirect.com/science/article/pii/S0924271625002230)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star)](https://github.com/NJU-LHRS/LHRS-Bot)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/87)|
 |2025|arXiv|China|[SAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
+|2025|NeurIPS|Japan|[DisasterM3](https://arxiv.org/abs/2505.21089)|[![Star](https://img.shields.io/github/stars/Junjue-Wang/DisasterM3.svg?style=social&label=Star)](https://github.com/Junjue-Wang/DisasterM3)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
