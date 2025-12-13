@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Awesome Remote Sensing Vision-Language Dataset List</h1>
+<h1>Awesome Remote Sensing Vision-Language Datasets</h1>
 
 <div>
     DREAMS@ECNU&emsp;
