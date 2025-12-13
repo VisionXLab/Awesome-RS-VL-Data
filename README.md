@@ -1,5 +1,5 @@
 <div align="center">
-<h1>GeoChef: A Culinary Guide to Dataset Curation for Remote Sensing Vision-Language Models</h1>
+<h1>Awesome Remote Sensing Vision-Language Dataset List</h1>
 
 <div>
     DREAMS@ECNU&emsp;
