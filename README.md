@@ -18,7 +18,9 @@
 
 By providing curated, high-quality dataset recommendations, this repository addresses the critical data needs for developing advanced Large Vision-Language Models (LVLMs) in Remote Sensing. 
 
-> Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter the datasets we need. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
+> Inspired by the [JE](https://github.com/zytx121/je) project, we have adopted **GitHub Issues** to manage our datasets. With the help of **Labels**, it's easy to filter the datasets we need.
+
+We encourage researchers to submit outstanding results that we may have missed to the project's Issues. Please provide the essential information based on the provided template. Subsequently, we will add appropriate labels and update the README page accordingly. We also encourage users to join the **discussion under each issue—sharing their experiences, feedback, and whether they would recommend the dataset to others.**
 
 ### 🥳 New
 
