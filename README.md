@@ -24,11 +24,11 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.12.11 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.12.14 🔥🔥🔥
+- **2025.12.14**: SARVLM-1M,
 - **2025.12.11**: Landsat30-AU, UniGeoSeg, CitySet
 - **2025.12.01**: VICoT-HRSC, GeoPlan-Bench, LRS-GRO, ThinkGeo
-- **2025.11.17**: Update ScoreRS
-- **2025.10.31**: Update Earth-Bench
+- 
 - 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
@@ -84,6 +84,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[FUSAR-GEOVL-1M](https://authors.elsevier.com/a/1lqB93I9x1uc9A)|[![Star](https://img.shields.io/github/stars/yangyifremad/SARKnowLIP.svg?style=social&label=Star)](https://github.com/yangyifremad/SARKnowLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://fscdc.github.io/AVI-Math/issues/98)|
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
 |2025|NeurIPS|Japan|[DisasterM3](https://arxiv.org/abs/2505.21089)|[![Star](https://img.shields.io/github/stars/Junjue-Wang/DisasterM3.svg?style=social&label=Star)](https://github.com/Junjue-Wang/DisasterM3)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
+|2025|Arxiv|China|[DisasterM3](https://arxiv.org/pdf/2510.22665)|NAN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
