@@ -170,7 +170,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|AAAI|Australian|[Landsat30-AU-VQA](https://arxiv.org/abs/2508.03127)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/106)|
 |2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 |2025|ICML|United States|[UnivEARTH](https://arxiv.org/abs/2504.12110v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/116)|
-|2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/117)|
+|2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
 |2024|ISPRS&JPRS|China|[OSVQA](https://www.sciencedirect.com/science/article/pii/S0924271625003405)|[link](https://github.com/mmic-lcl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
 
 
