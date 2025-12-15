@@ -171,6 +171,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|ISPRS|Japan|[CitySet](https://doi.org/10.1016/j.isprsjprs.2025.11.030)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/109)|
 |2025|ICML|United States|[UnivEARTH](https://arxiv.org/abs/2504.12110v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/116)|
 |2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/117)|
+|2024|ISPRS&JPRS|China|[OSVQA]( https://www.sciencedirect.com/science/article/pii/S0924271625003405)|[![Star](https://img.shields.io/github/stars/mmic-lcl/.svg?style=social&label=Star)](https://github.com/mmic-lcl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/papersubmit1/landsat30-au/issues/118)|
 
 
 ### Visual Grounding
