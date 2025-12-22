@@ -24,11 +24,11 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.12.17 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.12.22 🔥🔥🔥
+- **2025.12.22**: 
 - **2025.12.17**: MaRS-16M
 - **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
-- **2025.12.14**: SARVLM-1M,SARCAP,MMSAR
-- **2025.12.11**: Landsat30-AU, UniGeoSeg, CitySet
+  
 - 
 - 🚀🚀🚀 We will release the survey ASAP.
 
@@ -198,6 +198,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|MM|China|[RemoteSAM-270K](https://arxiv.org/abs/2505.18022)|[![Star](https://img.shields.io/github/stars/1e12Leon/RemoteSAM.svg?style=social&label=Star)](https://github.com/1e12Leon/RemoteSAM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/81)|
 |2025|arXiv|China|[NWPU-Refer](https://arxiv.org/pdf/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
 |2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/pdf/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
+|2025|AAAI|China|[RIS-LAD](https://arxiv.org/pdf/2507.20920)|[![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star)](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
