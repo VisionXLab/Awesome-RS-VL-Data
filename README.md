@@ -27,8 +27,6 @@ We encourage researchers to submit outstanding results that we may have missed t
 🔥🔥🔥 Last Updated on 2025.12.22 🔥🔥🔥
 - **2025.12.22**: RIS-LAD , KnowFlow-Bench , GeoZero-Raw
 - **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
-  
-- 
 - 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
