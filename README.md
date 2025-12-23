@@ -26,7 +26,6 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 🔥🔥🔥 Last Updated on 2025.12.22 🔥🔥🔥
 - **2025.12.22**: RIS-LAD , KnowFlow-Bench , GeoZero-Raw
-- **2025.12.17**: MaRS-16M
 - **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
   
 - 
@@ -82,7 +81,6 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|NeurIPS|China|[ScoreRS](https://arxiv.org/abs/2503.00743)|[![Star](https://img.shields.io/github/stars/NJU-LHRS/ScoreRS.svg?style=social&label=Star)]( https://github.com/NJU-LHRS/ScoreRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/101)|
 |2025|NeurIPS|Japan|[DisasterM3](https://arxiv.org/abs/2505.21089)|[![Star](https://img.shields.io/github/stars/Junjue-Wang/DisasterM3.svg?style=social&label=Star)](https://github.com/Junjue-Wang/DisasterM3)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/111)|
 |2025|arXiv|China|[SARVLM-1M](https://arxiv.org/abs/2510.22665)|NAN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/112)|
-|2025|AAAI|China|[MaRS-16M](https://rsidea.whu.edu.cn/mars.pdf)|[![Star](https://img.shields.io/github/stars/WanderRainy/MaRS.svg?style=social&label=Star)](https://github.com/WanderRainy/MaRS)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/119)|
 |2025|arXiv|China|[GeoZero-Raw](https://www.arxiv.org/abs/2511.22645)|[![Star](https://img.shields.io/github/stars/MiliLab/GeoZero.svg?style=social&label=Star)](https://github.com/MiliLab/GeoZero)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/122)|
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
