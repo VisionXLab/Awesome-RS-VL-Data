@@ -101,7 +101,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|United Arab Emirates|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
 |2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
 |2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
-|2025|arXiv|China|[UrbanVideo-Bench(https://arxiv.org/abs/2503.06157)|[![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
+|2025|arXiv|China|[UrbanVideo-Bench](https://arxiv.org/abs/2503.06157)|[![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
