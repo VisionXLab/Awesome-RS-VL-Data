@@ -99,11 +99,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[SARChat-Bench-2M](https://arxiv.org/abs/2502.08168)|[![Star](https://img.shields.io/github/stars/JimmyMa99/SARChat.svg?style=social&label=Star)](https://github.com/JimmyMa99/SARChat)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/78)|
 |2025|NeruIPS|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 |2025|arXiv|United Arab Emirates|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
-|2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
-|2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
-|2025|arXiv|China|[UrbanVideo-Bench](https://arxiv.org/abs/2503.06157)|[![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/125)|
-|2025|arXiv|China|[BEDI](https://arxiv.org/abs/2505.18229)|[![Star](https://img.shields.io/github/stars/lostwolves/BEDI.svg?style=social&label=Star)](https://github.com/lostwolves/BEDI)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/126)|
 |2025|arXiv|China|[A2Seek](https://arxiv.org/abs/2505.21962)|[![Star](https://img.shields.io/github/stars/A2Seek/.svg?style=social&label=Star)](https://2-mo.github.io/A2Seek/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/128)|
+
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
@@ -144,6 +141,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|ISPRS|China|[SARCAP](https://www.sciencedirect.com/science/article/pii/S0924271625004058)|[![Star](https://img.shields.io/github/stars/CAESAR-Radi/SARCLIP.svg?style=social&label=Star)](https://github.com/CAESAR-Radi/SARCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/113)|
 |2025|TGRS|China|[MMSAR](https://ieeexplore.ieee.org/document/11231801)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/114)|
 |2024|drone|China|[MOCO](https://www.mdpi.com/2504-446X/8/9/421)|[![Star](https://img.shields.io/github/stars/Panlizhi/MOCO?.svg?style=social&label=Star)](https://github.com/Panlizhi/MOCO?)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/127)|
+
 ### Visual Question Answering (VQA)
 
 |Year|Venue|Country|Name|Download|More|
@@ -174,6 +172,10 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
 |2024|ISPRS&JPRS|China|[OSVQA](https://www.sciencedirect.com/science/article/pii/S0924271625003405)|[link](https://github.com/mmic-lcl/)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
 |2025|arXiv|Japan|[Geo3DVQA](https://arxiv.org/pdf/2512.07276v2)|[![Star](https://img.shields.io/github/stars/mm1129/Geo3DVQA.svg?style=social&label=Star)](https://github.com/mm1129/Geo3DVQA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/123)|
+|2025|arXiv|China|[UrbanVideo-Bench](https://arxiv.org/abs/2503.06157)|[![Star](https://img.shields.io/github/stars/EmbodiedCity/UrbanVideo-Bench.code.svg?style=social&label=Star)](https://github.com/EmbodiedCity/UrbanVideo-Bench.code)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/125)|
+|2025|arXiv|China|[BEDI](https://arxiv.org/abs/2505.18229)|[![Star](https://img.shields.io/github/stars/lostwolves/BEDI.svg?style=social&label=Star)](https://github.com/lostwolves/BEDI)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/126)|
+|2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
+
 
 ### Visual Grounding
 
@@ -198,6 +200,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[NWPU-Refer](https://arxiv.org/abs/2506.03583)|[![Star](https://img.shields.io/github/stars/CVer-Yang/NWPU-Refer.svg?style=social&label=Star)](https://github.com/CVer-Yang/NWPU-Refer)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/94)|
 |2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/abs/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 |2025|AAAI|China|[RIS-LAD](https://arxiv.org/abs/2507.20920)|[![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star)](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/120)|
+|2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
 
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
