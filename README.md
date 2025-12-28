@@ -24,10 +24,10 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2025.12.24 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2025.12.28 🔥🔥🔥
+- **2025.12.28**: BEDI ， UrbanVideo-Bench , MOCO , GRAP-1K , A2Seek
 - **2025.12.24**: Geo3DVQA , GRASP-1K
-- **2025.12.22**: RIS-LAD , KnowFlow-Bench
-- **2025.12.15**: UnivEARTH , RS-EoT-4K , OSVQA
+
 - 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
