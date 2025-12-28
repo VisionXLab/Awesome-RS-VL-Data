@@ -25,7 +25,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 ### 🥳 New
 
 🔥🔥🔥 Last Updated on 2025.12.28 🔥🔥🔥
-- **2025.12.28**: BEDI，UrbanVideo-Bench, MOCO, GRAP-1K, A2Seek
+- **2025.12.28**: BEDI，UrbanVideo-Bench, MOCO, LaSeRS, A2Seek
 - **2025.12.24**: Geo3DVQA , GRASP-1K
 
 - 🚀🚀🚀 We will release the survey ASAP.
