@@ -450,7 +450,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|arXiv||[RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model](https://arxiv.org/abs/2411.17984)|NaN|
 |2025|arXiv||[Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning](https://arxiv.org/abs/2509.21976)|[![Star](https://img.shields.io/github/stars/Geo-R1/geo-r1.svg?style=social&label=Star)](https://github.com/Geo-R1/geo-r1)|
 |2025|arXiv||[Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search](https://arxiv.org/abs/2511.20460)|NaN|
-
+|2025|arXiv||[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://www.arxiv.org/abs/2511.22645)|NaN|
 
 
 <!-- % [![Star](https://img.shields.io/github/stars/{}.svg?style=social&label=Star)]() --> 
@@ -472,6 +472,8 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|ICCV| |[Copernicus: Towards a Unified Copernicus Foundation Model for Earth Vision](https://arxiv.org/abs/2503.11849)|[![Star](https://img.shields.io/github/stars/zhu-xlab/Copernicus-FM.svg?style=social&label=Star)](https://github.com/zhu-xlab/Copernicus-FM)|
 |2025|arXiv| |[SkySense V2: A Unified Foundation Model for Multi-modal Remote Sensing](https://arxiv.org/abs/2507.13812)|N/A|
 |2025|arXiv| |[CGEarthEye: A High-Resolution Remote Sensing Vision Foundation Model Based on the Jilin-1 Satellite Constellation](https://arxiv.org/abs/2507.00356)|N/A|
+
+
 ### Intelligent Agents
 
 |Year|Venue|Keywords|Name|Download|
