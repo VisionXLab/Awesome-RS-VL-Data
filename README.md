@@ -451,7 +451,7 @@ If you want to see how many datasets used the `xBD` metadata during construction
 |2025|IEEE||[Satellite Image Synthesis From Street View With Fine-Grained Spatial Textual Guidance: A novel framework](https://ieeexplore.ieee.org/document/11083891)|NaN|
 |2025|arXiv||[RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model](https://arxiv.org/abs/2411.17984)|NaN|
 |2025|arXiv||[Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning](https://arxiv.org/abs/2509.21976)|[![Star](https://img.shields.io/github/stars/Geo-R1/geo-r1.svg?style=social&label=Star)](https://github.com/Geo-R1/geo-r1)|
-|2025|arXiv||[Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search](https://arxiv.org/abs/2511.20460)|NaN|
+|2025|arXiv||[Look Where It Matters: Training-Free Ultra-HR Remote Sensing VQA via Adaptive Zoom Search](https://arxiv.org/abs/2511.20460)|[![Star](https://img.shields.io/github/stars/kiki-zyq/ZoomSearch.svg?style=social&label=Star)](https://github.com/kiki-zyq/ZoomSearch)|
 |2025|arXiv||[GeoZero: Incentivizing Reasoning from Scratch on Geospatial Scenes](https://www.arxiv.org/abs/2511.22645)|NaN|
 
 
