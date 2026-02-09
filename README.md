@@ -10,7 +10,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](http://zhouyue.space/GeoChef)
 [![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
-[![Paper](https://img.shields.io/badge/HuggingFace-Paper-yellow)](https://huggingface.co/)
+[![Paper](https://img.shields.io/badge/TechRxiv-Paper-yellow)](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1)
 
 </div>
 
@@ -24,11 +24,11 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.01.01 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.02.09 🔥🔥🔥
+- We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
 - **2026.01.01**: LRS-VQA-Zoom
 - **2025.12.30**: MM-UAVBench
 - **2025.12.28**: BEDI, UrbanVideo-Bench, MOCO, LaSeRS, A2Seek
-- **2025.12.24**: Geo3DVQA, GRASP-1K
 
 - 🚀🚀🚀 We will release the survey ASAP.
 
@@ -539,7 +539,14 @@ If you want to see how many datasets used the `xBD` metadata during construction
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-
+@article{Zhou_2026,
+title={GeoChef: A Data-Centric Guide to Tailoring Vision-Language Models for Remote Sensing},
+url={http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1},
+DOI={10.36227/techrxiv.176978652.29736845/v1},
+publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+author={Zhou, Yue and Zhao, Shujun and Li, Ruigang and Yang, Xue and Lan, Mengcheng and Chen, Chaofeng and Zhang, Tianwen and Ma, Lingfei and He, Hongjie and Li, Jonathan},
+year={2026},
+month=jan }
 ```
 
 ## Contact
