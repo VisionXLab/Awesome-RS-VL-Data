@@ -105,7 +105,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[REOBench](https://arxiv.org/abs/2505.16793)|[![Star](https://img.shields.io/github/stars/lx709/REOBench.svg?style=social&label=Star)](https://github.com/lx709/REOBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/86)|
 |2025|arXiv|United Arab Emirates|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
 |2025|arXiv|China|[A2Seek](https://arxiv.org/abs/2505.21962)|[![Star](https://img.shields.io/github/stars/2-mo/A2Seek.svg?style=social&label=Star)](https://github.com/2-mo/A2Seek)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/128)|
-|2026|arXiv|China|[GeoReason-Bench](https://arxiv.org/abs/2601.04118)|[![Star](https://img.shields.io/github/canlanqianyan/GeoReason.svg?style=social&label=Star)](https://github.com/canlanqianyan/GeoReason)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/134)|
+|2026|arXiv|China|[GeoReason-Bench](https://arxiv.org/abs/2601.04118)|[![Star](https://img.shields.io/github/canlanqianyan/GeoReason.svg?style=social&label=Star)](https://github.com/canlanqianyan/GeoReason)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/135)|
 
 ## Task-specific Data
 
@@ -184,7 +184,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXix|China|[KnowFlow-Bench](https://arxiv.org/pdf/2512.15231v1)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/121)|
 |2025|arXiv|China|[MM-UAVBench](https://arxiv.org/pdf/2512.23219)|[![Star](https://img.shields.io/github/stars/MM-UAVBench/MM-UAVBench.svg?style=social&label=Star)](https://github.com/MM-UAVBench/MM-UAVBench)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/130)|
 |2025|arXiv|China|[LRS-VQA-Zoom](https://arxiv.org/abs/2511.21272)|[![Star](https://img.shields.io/github/stars/VisionXLab/RSCoVLM.svg?style=social&label=Star)](https://github.com/VisionXLab/RSCoVLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/132)|
-|2026|arXiv|China|[UHR-CoZ](https://arxiv.org/abs/2602.14201)|[![Star](https://img.shields.io/github/stars/nanocm/GeoEyes.svg?style=social&label=Star)](https://github.com/nanocm/GeoEyes)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/133)|
+|2026|arXiv|China|[UHR-CoZ](https://arxiv.org/abs/2602.14201)|[![Star](https://img.shields.io/github/stars/nanocm/GeoEyes.svg?style=social&label=Star)](https://github.com/nanocm/GeoEyes)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/134)|
 ### Visual Grounding
 
 
