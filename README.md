@@ -27,11 +27,10 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 🔥🔥🔥 Last Updated on 2026.04.22 🔥🔥🔥
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-f8mcqdad4qqffpp3xemhhy.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
+- **2026.04.22**: SkyFind
 - **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
 - We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
 - **2026.01.01**: LRS-VQA-Zoom
-- **2025.12.30**: MM-UAVBench
-- **2025.12.28**: BEDI, UrbanVideo-Bench, MOCO, LaSeRS, A2Seek
 
 - 🚀🚀🚀 We will release the survey ASAP.
 
@@ -149,7 +148,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|AAAI|Australian|[Landsat30-AU-CAP](https://arxiv.org/abs/2508.03127)|[![Star](https://img.shields.io/github/stars/papersubmit1/landsat30-au.svg?style=social&label=Star)](https://github.com/papersubmit1/landsat30-au)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/107)|
 |2025|ISPRS|China|[SARCAP](https://www.sciencedirect.com/science/article/pii/S0924271625004058)|[![Star](https://img.shields.io/github/stars/CAESAR-Radi/SARCLIP.svg?style=social&label=Star)](https://github.com/CAESAR-Radi/SARCLIP)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/113)|
 |2025|TGRS|China|[MMSAR](https://ieeexplore.ieee.org/document/11231801)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/114)|
-|2026|TPAMI|China|[SkyFind](https://ieeexplore.ieee.org/document/11475181)|[![Star](https://img.shields.io/github/stars/wangkunyu241/SkyFind.svg?style=social&label=Star)](https://github.com/wangkunyu241/SkyFind)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/107)|
+|2026|TPAMI|China|[SkyFind](https://ieeexplore.ieee.org/document/11475181)|[![Star](https://img.shields.io/github/stars/wangkunyu241/SkyFind.svg?style=social&label=Star)](https://github.com/wangkunyu241/SkyFind)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/137)|
 
 ### Visual Question Answering (VQA)
 
