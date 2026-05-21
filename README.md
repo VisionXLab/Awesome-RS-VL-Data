@@ -25,15 +25,13 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.04.28 🔥🔥🔥
-- **2026.04.28**: 🚀🚀🚀 **We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!**
+🔥🔥🔥 Last Updated on 2026.05.21 🔥🔥🔥
 
+- **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
+- **2026.04.28**: We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-v2-1.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
 - **2026.04.22**: SkyFind,GeoMMBench
 - **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
-- We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
-
-- 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
 
