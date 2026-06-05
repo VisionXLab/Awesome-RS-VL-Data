@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](http://zhouyue.space/GeoChef)
 [![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
 [![Paper](https://img.shields.io/badge/TechRxiv-Paper-yellow)](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1)
-[![Agent Demo](https://img.shields.io/badge/Agent-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
+[![App Demo](https://img.shields.io/badge/App-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
 [![Agent Skill](https://img.shields.io/badge/Agent-Skill-red.svg?style=flat)](https://github.com/HUASHANGLIUSU/geochef-skill)
 </div>
 
