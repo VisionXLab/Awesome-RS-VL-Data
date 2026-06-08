@@ -25,8 +25,9 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.05.21 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.06.08 🔥🔥🔥
 
+- **2026.06.08**: Sky-VT-300K
 - **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
 - **2026.04.28**: We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-v2-1.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
@@ -209,8 +210,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/abs/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 |2025|AAAI|China|[RIS-LAD](https://arxiv.org/abs/2507.20920)|[![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star)](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/120)|
 |2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
-|2025|arXiv|China|[LaSeRS](https://arxiv.org/pdf/2512.20013)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R2.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R2)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
-
+|2025|arXiv|China|[LaSeRS](https://arxiv.org/pdf/2512.2001)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R2.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R2)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
+|2026|CVPR|China|[Sky-VT-300K](https://kang-wu.github.io/SkySense-VITA/)|[![Star](https://img.shields.io/github/stars/kang-wu/SkySense-VITA.svg?style=social&label=Star)](https://github.com/kang-wu/SkySense-VITA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
 
