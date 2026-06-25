@@ -10,7 +10,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](http://zhouyue.space/GeoChef)
 [![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
-[![Paper](https://img.shields.io/badge/TechRxiv-Paper-yellow)](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1)
+[![Paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/11556315)
 [![App Demo](https://img.shields.io/badge/App-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
 [![Agent Skill](https://img.shields.io/badge/Agent-Skill-red.svg?style=flat)](https://github.com/HUASHANGLIUSU/geochef-skill)
 </div>
@@ -542,14 +542,16 @@ If you want to see how many datasets used the `xBD` metadata during construction
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{Zhou_2026,
-title={GeoChef: A Data-Centric Guide to Tailoring Vision-Language Models for Remote Sensing},
-url={http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1},
-DOI={10.36227/techrxiv.176978652.29736845/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Zhou, Yue and Zhao, Shujun and Li, Ruigang and Yang, Xue and Lan, Mengcheng and Chen, Chaofeng and Zhang, Tianwen and Ma, Lingfei and He, Hongjie and Li, Jonathan},
-year={2026},
-month=jan }
+@ARTICLE{zhou2026geochef,
+  author={Zhou, Yue and Zhao, Shujun and Yang, Xue and Li, Ruigang and Zhang, Tianwen and Lan, Mengcheng and Chen, Chaofeng and Ma, Lingfei and He, Hongjie and Li, Jonathan},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Data-Driven Vision-Language Models for Remote Sensing: A survey}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={2-37},
+  keywords={Modeling;Visual systems;Cognition;Cognitive systems;Remote sensing;Tuning;Grounding;Visualization;Large language models;Vision language model},
+  doi={10.1109/MGRS.2026.3696441}}
 ```
 
 ## Contact
