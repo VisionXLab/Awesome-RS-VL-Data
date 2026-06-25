@@ -25,8 +25,9 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.06.08 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.06.25 🔥🔥🔥
 
+- **2026.06.25**: RS-Neg
 - **2026.06.08**: Sky-VT-300K
 - **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
 - **2026.04.28**: We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!
@@ -107,6 +108,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|United Arab Emirates|[ThinkGeo](https://arxiv.org/abs/2505.23752)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/ThinkGeo.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/ThinkGeo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/105)|
 |2025|arXiv|China|[A2Seek](https://arxiv.org/abs/2505.21962)|[![Star](https://img.shields.io/github/stars/2-mo/A2Seek.svg?style=social&label=Star)](https://github.com/2-mo/A2Seek)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/128)|
 |2026|arXiv|China|[GeoReason-Bench](https://arxiv.org/abs/2601.04118)|[![Star](https://img.shields.io/github/stars/canlanqianyan/GeoReason.svg?style=social&label=Star)](https://github.com/canlanqianyan/GeoReason)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/135)|
+|2026|ECCV|China|[RS-Neg](https://arxiv.org/abs/2606.20177)|[![Star](https://img.shields.io/github/stars/mumu011/NeFo.svg?style=social&label=Star)](https://github.com/mumu011/NeFo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/135)|
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
