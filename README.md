@@ -10,8 +10,8 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Website](https://img.shields.io/badge/Project-Website-87CEEB)](http://zhouyue.space/GeoChef)
 [![Issue's Welcome](https://img.shields.io/badge/Issues-welcome-brightgreen.svg?style=flat)](https://github.com/zytx121/Awesome-RS-VL-Data/issues)
-[![Paper](https://img.shields.io/badge/TechRxiv-Paper-yellow)](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1)
-[![Agent Demo](https://img.shields.io/badge/Agent-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
+[![Paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/11556315)
+[![App Demo](https://img.shields.io/badge/App-Demo-ff69b4.svg?style=flat)](https://geochef-v2-1.streamlit.app/)
 [![Agent Skill](https://img.shields.io/badge/Agent-Skill-red.svg?style=flat)](https://github.com/HUASHANGLIUSU/geochef-skill)
 </div>
 
@@ -25,15 +25,15 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.04.28 🔥🔥🔥
-- **2026.04.28**: 🚀🚀🚀 **We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!**
+🔥🔥🔥 Last Updated on 2026.06.25 🔥🔥🔥
 
+- **2026.06.25**: RS-Neg
+- **2026.06.08**: Sky-VT-300K
+- **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
+- **2026.04.28**: We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-v2-1.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
 - **2026.04.22**: SkyFind,GeoMMBench
 - **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
-- We release the [preprint](http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1) of the review.
-
-- 🚀🚀🚀 We will release the survey ASAP.
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
 
@@ -110,6 +110,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[A2Seek](https://arxiv.org/abs/2505.21962)|[![Star](https://img.shields.io/github/stars/2-mo/A2Seek.svg?style=social&label=Star)](https://github.com/2-mo/A2Seek)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/128)|
 |2026|arXiv|China|[GeoReason-Bench](https://arxiv.org/abs/2601.04118)|[![Star](https://img.shields.io/github/stars/canlanqianyan/GeoReason.svg?style=social&label=Star)](https://github.com/canlanqianyan/GeoReason)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/135)|
 |2026|arXiv|Germany|[BigEarthNet.txt](https://arxiv.org/abs/2603.29630)|NAN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/139)|
+|2026|ECCV|China|[RS-Neg](https://arxiv.org/abs/2606.20177)|[![Star](https://img.shields.io/github/stars/mumu011/NeFo.svg?style=social&label=Star)](https://github.com/mumu011/NeFo)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/143)|
+
 ## Task-specific Data
 
 ### Image Captioning / Retrieval
@@ -213,8 +215,8 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[GeoSeg-1M](https://arxiv.org/abs/2511.23332v1)|[![Star](https://img.shields.io/github/stars/MiliLab/UniGeoSeg.svg?style=social&label=Star)](https://github.com/MiliLab/UniGeoSeg)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/108)|
 |2025|AAAI|China|[RIS-LAD](https://arxiv.org/abs/2507.20920)|[![Star](https://img.shields.io/github/stars/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation.svg?style=social&label=Star)](https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/120)|
 |2025|arXix|China|[GRASP-1K](https://arxiv.org/pdf/2508.17102v2)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/124)|
-|2025|arXiv|China|[LaSeRS](https://arxiv.org/pdf/2512.20013)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R2.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R2)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
-
+|2025|arXiv|China|[LaSeRS](https://arxiv.org/pdf/2512.2001)|[![Star](https://img.shields.io/github/stars/earth-insights/SegEarth-R2.svg?style=social&label=Star)](https://github.com/earth-insights/SegEarth-R2)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
+|2026|CVPR|China|[Sky-VT-300K](https://kang-wu.github.io/SkySense-VITA/)|[![Star](https://img.shields.io/github/stars/kang-wu/SkySense-VITA.svg?style=social&label=Star)](https://github.com/kang-wu/SkySense-VITA)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/129)|
 ## Meta Data
 All remote sensing datasets used to construct the above-mentioned VL datasets. 
 
@@ -545,14 +547,16 @@ If you want to see how many datasets used the `xBD` metadata during construction
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
-@article{Zhou_2026,
-title={GeoChef: A Data-Centric Guide to Tailoring Vision-Language Models for Remote Sensing},
-url={http://dx.doi.org/10.36227/techrxiv.176978652.29736845/v1},
-DOI={10.36227/techrxiv.176978652.29736845/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Zhou, Yue and Zhao, Shujun and Li, Ruigang and Yang, Xue and Lan, Mengcheng and Chen, Chaofeng and Zhang, Tianwen and Ma, Lingfei and He, Hongjie and Li, Jonathan},
-year={2026},
-month=jan }
+@ARTICLE{zhou2026geochef,
+  author={Zhou, Yue and Zhao, Shujun and Yang, Xue and Li, Ruigang and Zhang, Tianwen and Lan, Mengcheng and Chen, Chaofeng and Ma, Lingfei and He, Hongjie and Li, Jonathan},
+  journal={IEEE Geoscience and Remote Sensing Magazine}, 
+  title={Data-Driven Vision-Language Models for Remote Sensing: A survey}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={2-37},
+  keywords={Modeling;Visual systems;Cognition;Cognitive systems;Remote sensing;Tuning;Grounding;Visualization;Large language models;Vision language model},
+  doi={10.1109/MGRS.2026.3696441}}
 ```
 
 ## Contact
