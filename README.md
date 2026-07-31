@@ -25,15 +25,14 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 ### 🥳 New
 
-🔥🔥🔥 Last Updated on 2026.06.25 🔥🔥🔥
+🔥🔥🔥 Last Updated on 2026.07.31 🔥🔥🔥
 
+- **2026.06.25**: FUSAR-R1
 - **2026.06.25**: RS-Neg
 - **2026.06.08**: Sky-VT-300K
 - **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
 - **2026.04.28**: We release the GeoChef [SKill](https://github.com/HUASHANGLIUSU/geochef-skill) for your OpenClaw/Hermes/Coze/WorkBuddy! Excellent, Highly Recommended!!
 - **2026.04.22**: We release our [Agent (test version)](https://geochef-v2-1.streamlit.app/) to assist researchers in the RS vision-language field with dataset-related problems.
-- **2026.04.22**: SkyFind,GeoMMBench
-- **2026.02.24**: UHR-CoZ, GeoReason-Bench, OpenEarthAgentDataset 
 
 ![dara_type](https://github.com/user-attachments/assets/de16f127-9117-4f98-a33c-b36a82f83af2)
 
@@ -191,6 +190,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[LRS-VQA-Zoom](https://arxiv.org/abs/2511.21272)|[![Star](https://img.shields.io/github/stars/VisionXLab/RSCoVLM.svg?style=social&label=Star)](https://github.com/VisionXLab/RSCoVLM)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/132)|
 |2026|arXiv|China|[UHR-CoZ](https://arxiv.org/abs/2602.14201)|[![Star](https://img.shields.io/github/stars/nanocm/GeoEyes.svg?style=social&label=Star)](https://github.com/nanocm/GeoEyes)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/134)|
 |2026|CVPR|Japan|[GeoMMBench](https://arxiv.org/abs/2604.0889)|[![Star](https://img.shields.io/github/stars/Shihao-Cheng/GeoMMAgent.svg?style=social&label=Star)](https://github.com/Shihao-Cheng/GeoMMAgent)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/138)|
+|2026|ArXiv|China|[FUSAR-GEOVL-1M](https://arxiv.org/pdf/2607.16819)|NaN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/102)|
 ### Visual Grounding
 
 
