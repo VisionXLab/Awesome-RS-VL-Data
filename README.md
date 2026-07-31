@@ -27,7 +27,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 
 🔥🔥🔥 Last Updated on 2026.07.31 🔥🔥🔥
 
-- **2026.06.25**: FUSAR-R1
+- **2026.06.25**: FUSAR-GEOVL-1M
 - **2026.06.25**: RS-Neg
 - **2026.06.08**: Sky-VT-300K
 - **2026.05.21**: 🚀🚀🚀 **Accepted by IEEE Geoscience and Remote Sensing Magazine (GRSM)**
