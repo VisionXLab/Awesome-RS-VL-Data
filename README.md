@@ -87,6 +87,7 @@ We encourage researchers to submit outstanding results that we may have missed t
 |2025|arXiv|China|[RS-EoT-4K](https://arxiv.org/abs/2511.22396)|[![Star](https://img.shields.io/github/stars/GeoX-Lab/Asking_like_Socrates.svg?style=social&label=Star)](https://github.com/GeoX-Lab/Asking_like_Socrates)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/118)|
 |2026|arXiv|United Arab Emirates|[OpenEarthAgent Dataset](https://arxiv.org/pdf/2602.17665)|[![Star](https://img.shields.io/github/stars/mbzuai-oryx/OpenEarthAgent.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/OpenEarthAgent)|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/136)|
 |2026|arXiv|Germany|[BigEarthNet.txt](https://arxiv.org/abs/2603.29630)|NAN|[![](https://img.shields.io/badge/%E2%9D%A4-ff69b4.svg)](https://github.com/zytx121/Awesome-RS-SFT-Data/issues/139)|
+
 ## Comprehensive Benchmarks
 |Year|Venue|Country|Name|Download|More|
 |:-:|:-:|:-:|-|-|:-:|
